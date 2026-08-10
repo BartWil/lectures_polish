@@ -1,0 +1,25 @@
+name: Publikacja strony Quarto
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  zbuduj_i_opublikuj:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Instalacja Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Renderowanie i publikacja na GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

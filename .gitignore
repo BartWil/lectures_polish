@@ -1,0 +1,14 @@
+# Pliki generowane przez Quarto
+/_site/
+/.quarto/
+
+# Wyniki obliczeń Quarto są wersjonowane, gdy się pojawią.
+!/_freeze/
+
+# Pliki systemowe i edytorów
+.DS_Store
+Thumbs.db
+.Rproj.user/
+.vscode/
+
+**/*.quarto_ipynb

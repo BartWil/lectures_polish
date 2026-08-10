@@ -1,0 +1,10 @@
+---
+title: "Podstawy fizjoterapii klinicznej"
+---
+
+Ten dział gromadzi materiały do przedmiotów z obszaru podstaw fizjoterapii klinicznej.
+
+## Przedmioty
+
+- [Ortopedia i traumatologia](ortopedia-traumatologia/index.qmd)
+- [Medycyna sportowa](medycyna-sportowa/index.qmd)

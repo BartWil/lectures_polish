@@ -1,0 +1,15 @@
+---
+title: "Materiały dydaktyczne"
+---
+
+Witamy w otwartej bazie materiałów dydaktycznych w języku polskim.
+
+Strona będzie rozwijana jako zbiór przejrzystych materiałów dla przedmiotów akademickich. Treści są tworzone w formacie Quarto (`.qmd`), dzięki czemu można je łatwo czytać, poprawiać i aktualizować.
+
+## Dostępne obszary
+
+- [Podstawy fizjoterapii klinicznej](content/pfk/index.qmd)
+
+## Zasady korzystania z materiałów
+
+Przy każdym wykorzystanym obrazie podajemy jego źródło oraz licencję. Materiały źródłowe, takie jak prezentacje i dokumenty tekstowe, są przechowywane oddzielnie od publikowanych stron.

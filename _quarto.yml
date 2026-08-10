@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Materiały dydaktyczne"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Strona główna"
+      - href: content/pfk/index.qmd
+        text: "PFK"
+  sidebar:
+    - title: "Przedmioty"
+      style: "docked"
+      contents:
+        - section: "Podstawy fizjoterapii klinicznej"
+          contents:
+            - content/pfk/index.qmd
+            - content/pfk/ortopedia-traumatologia/index.qmd
+            - content/pfk/medycyna-sportowa/index.qmd
+  page-footer:
+    left: "Materiały dydaktyczne"
+    right: "Strona zbudowana w Quarto"
+  search: true
+
+lang: pl
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: shared/styles.scss
+    toc: true
+    toc-location: right
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
