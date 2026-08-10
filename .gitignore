@@ -5,6 +5,10 @@
 # Wyniki obliczeń Quarto są wersjonowane, gdy się pojawią.
 !/_freeze/
 
+# Lokalne, niepubliczne materiały źródłowe i wyniki ekstrakcji
+/sources_local/
+/imports_working/
+
 # Pliki systemowe i edytorów
 .DS_Store
 Thumbs.db

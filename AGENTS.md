@@ -14,12 +14,15 @@ Repozytorium zawiera polskojęzyczną bazę materiałów dydaktycznych publikowa
 
 - Każdy przedmiot ma własny katalog w `content/` oraz stronę `index.qmd`.
 - Materiały publikowane należą do `content/`; obrazy do `assets/images/`.
-- Oryginalne pliki prowadzących (`.pptx`, `.docx`) przechowuj wyłącznie w `sources/`. Nie linkuj ich automatycznie jako elementów strony.
+- Oryginalne pliki prowadzących (`.pptx`, `.docx`) przechowuj wyłącznie lokalnie w `sources_local/`. Ten katalog jest ignorowany przez Git i nie może być commitowany ani linkowany jako element strony.
+- Wyniki mechanicznej ekstrakcji prezentacji zapisuj lokalnie w `imports_working/`. Nie commituj ich ani nie publikuj automatycznie.
 - Skrypty pomocnicze, w tym przyszły import `.pptx` i `.docx`, umieszczaj w `scripts/`.
 
 ## Źródła i licencje
 
 - Każdy opublikowany obraz musi mieć wpis w `assets/images/atrybucje.yml`: plik, autor lub instytucja, adres źródłowy, licencja i informacja o modyfikacji.
+- Automatycznie wyekstrahowane obrazy nie mogą trafić do `assets/images/` ani na stronę bez ręcznej oceny źródła, licencji i dopuszczalności publikacji.
+- Tekst wyekstrahowany z prezentacji jest materiałem roboczym, a nie automatycznie gotową treścią dydaktyczną.
 - Cytowania naukowe prowadź w `references.bib` i stosuj standardowy zapis Pandoc/Quarto, np. `[@klucz2026]`.
 - Nie kopiuj treści ani grafik, dla których nie można ustalić uprawnień do wykorzystania.
 
