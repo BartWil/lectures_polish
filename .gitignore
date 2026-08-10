@@ -14,5 +14,6 @@
 Thumbs.db
 .Rproj.user/
 .vscode/
+__pycache__/
 
 **/*.quarto_ipynb
