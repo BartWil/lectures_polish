@@ -1,38 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Materiały dydaktyczne",
-    "section": "",
-    "text": "Witamy w otwartej bazie materiałów dydaktycznych w języku polskim.\nStrona będzie rozwijana jako zbiór przejrzystych materiałów dla przedmiotów akademickich. Treści są tworzone w formacie Quarto (.qmd), dzięki czemu można je łatwo czytać, poprawiać i aktualizować."
-  },
-  {
-    "objectID": "index.html#dostępne-obszary",
-    "href": "index.html#dostępne-obszary",
-    "title": "Materiały dydaktyczne",
-    "section": "Dostępne obszary",
-    "text": "Dostępne obszary\n\nPodstawy fizjoterapii klinicznej"
-  },
-  {
-    "objectID": "index.html#zasady-korzystania-z-materiałów",
-    "href": "index.html#zasady-korzystania-z-materiałów",
-    "title": "Materiały dydaktyczne",
-    "section": "Zasady korzystania z materiałów",
-    "text": "Zasady korzystania z materiałów\nPrzy każdym wykorzystanym obrazie podajemy jego źródło oraz licencję. Materiały źródłowe, takie jak prezentacje i dokumenty tekstowe, są przechowywane oddzielnie od publikowanych stron."
-  },
-  {
-    "objectID": "content/pfk/medycyna-sportowa/index.html",
-    "href": "content/pfk/medycyna-sportowa/index.html",
-    "title": "Medycyna sportowa",
-    "section": "",
-    "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
-    "crumbs": [
-      "PFK",
-      "Podstawy fizjoterapii klinicznej",
-      "Medycyna sportowa"
-    ]
-  },
-  {
     "objectID": "content/pfk/index.html",
     "href": "content/pfk/index.html",
     "title": "Podstawy fizjoterapii klinicznej",
@@ -66,6 +33,39 @@
       "PFK",
       "Podstawy fizjoterapii klinicznej",
       "Ortopedia i traumatologia"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Materiały dydaktyczne",
+    "section": "",
+    "text": "Witamy w otwartej bazie materiałów dydaktycznych w języku polskim.\nStrona będzie rozwijana jako zbiór przejrzystych materiałów dla przedmiotów akademickich. Treści są tworzone w formacie Quarto (.qmd), dzięki czemu można je łatwo czytać, poprawiać i aktualizować."
+  },
+  {
+    "objectID": "index.html#dostępne-obszary",
+    "href": "index.html#dostępne-obszary",
+    "title": "Materiały dydaktyczne",
+    "section": "Dostępne obszary",
+    "text": "Dostępne obszary\n\nPodstawy fizjoterapii klinicznej"
+  },
+  {
+    "objectID": "index.html#zasady-korzystania-z-materiałów",
+    "href": "index.html#zasady-korzystania-z-materiałów",
+    "title": "Materiały dydaktyczne",
+    "section": "Zasady korzystania z materiałów",
+    "text": "Zasady korzystania z materiałów\nPrzy każdym wykorzystanym obrazie podajemy jego źródło oraz licencję. Materiały źródłowe, takie jak prezentacje i dokumenty tekstowe, są przechowywane oddzielnie od publikowanych stron."
+  },
+  {
+    "objectID": "content/pfk/medycyna-sportowa/index.html",
+    "href": "content/pfk/medycyna-sportowa/index.html",
+    "title": "Medycyna sportowa",
+    "section": "",
+    "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Medycyna sportowa"
     ]
   }
 ]
