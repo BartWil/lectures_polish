@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - content/**/*.qmd
 
 website:
   title: "Materiały dydaktyczne"
