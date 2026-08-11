@@ -19,7 +19,11 @@ website:
         - section: "Podstawy fizjoterapii klinicznej"
           contents:
             - content/pfk/index.qmd
-            - content/pfk/ortopedia-traumatologia/index.qmd
+            - section: "Ortopedia i traumatologia"
+              contents:
+                - content/pfk/ortopedia-traumatologia/index.qmd
+                - text: "Złamania — mechanizmy i klasyfikacja"
+                  href: content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.qmd
             - content/pfk/medycyna-sportowa/index.qmd
   page-footer:
     left: "Materiały dydaktyczne"

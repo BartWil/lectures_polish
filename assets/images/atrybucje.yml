@@ -4,4 +4,14 @@
 #   zrodlo: "https://..."
 #   licencja: "CC BY 4.0"
 #   modyfikacja: "Nie" # albo krótki opis zmian
-[]
+- plik: pfk/ortopedia-traumatologia/fracture-forces.svg
+  autor_lub_instytucja: "Projekt lectures_polish"
+  zrodlo: "Autorskie opracowanie dydaktyczne utworzone od podstaw; bez zewnętrznego źródła graficznego"
+  licencja: "© Projekt lectures_polish — wszelkie prawa zastrzeżone"
+  modyfikacja: "Nie dotyczy — nowa grafika wektorowa"
+
+- plik: pfk/ortopedia-traumatologia/fracture-morphology.svg
+  autor_lub_instytucja: "Projekt lectures_polish"
+  zrodlo: "Autorskie opracowanie dydaktyczne utworzone od podstaw; bez zewnętrznego źródła graficznego"
+  licencja: "© Projekt lectures_polish — wszelkie prawa zastrzeżone"
+  modyfikacja: "Nie dotyczy — nowa grafika wektorowa"
