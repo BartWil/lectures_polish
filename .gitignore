@@ -12,6 +12,7 @@
 # Pliki systemowe i edytorów
 .DS_Store
 Thumbs.db
+.Rhistory
 .Rproj.user/
 .vscode/
 __pycache__/
