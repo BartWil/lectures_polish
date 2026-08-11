@@ -4,6 +4,12 @@
 
 Repozytorium zawiera polskojęzyczną bazę materiałów dydaktycznych publikowaną jako strona Quarto na GitHub Pages. Projekt ma pozostać prosty, czytelny i łatwy do ręcznej edycji.
 
+## Standard produkcji treści
+
+- Dokument [CONTENT_WORKFLOW.md](CONTENT_WORKFLOW.md) jest obowiązującym standardem produkcji każdej nowej jednostki dydaktycznej.
+- Każdy nowy moduł przechodzi właściwe dla niego etapy tego pipeline'u, od źródła lokalnego po kontrolę po publikacji.
+- Odstępstwo od standardu wymaga jawnego uzasadnienia; nie duplikuj pełnego opisu workflow w innych plikach.
+
 ## Język i styl
 
 - Wszystkie treści dla odbiorców, komunikaty, komentarze i dokumentacja pisane są po polsku, chyba że nazwa własna lub składnia techniczna wymaga innego języka.
