@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" role="img" aria-labelledby="title desc">
+  <title id="title">Podstawowe morfologie i przebieg szczeliny złamania</title>
+  <desc id="desc">Cztery schematy w układzie dwa na dwa pokazują szczelinę poprzeczną, skośną i spiralną oraz złamanie wieloodłamowe z dodatkowym fragmentem. Nota wyjaśnia, że orientacja szczeliny i liczba odłamów to odrębne elementy opisu.</desc>
+  <style>
+    .bone { fill: #f4f5f5; stroke: #283238; stroke-width: 5; stroke-linejoin: round; }
+    .fracture { fill: none; stroke: #a33a32; stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
+    .divider { stroke: #c9ced0; stroke-width: 2; }
+    .heading { fill: #3f4a4f; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; letter-spacing: 0.4px; }
+    .label { fill: #1b2428; font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; text-anchor: middle; }
+    .note { fill: #3f4a4f; font-family: Arial, Helvetica, sans-serif; font-size: 18px; text-anchor: middle; }
+  </style>
+
+  <text class="heading" x="400" y="42">PRZEBIEG SZCZELINY I LICZBA ODŁAMÓW</text>
+  <text class="note" x="400" y="70">Poprzeczna, skośna i spiralna opisują orientację szczeliny.</text>
+  <line class="divider" x1="60" y1="92" x2="740" y2="92"/>
+  <line class="divider" x1="400" y1="115" x2="400" y2="570"/>
+
+  <g aria-label="Złamanie poprzeczne">
+    <rect class="bone" x="145" y="125" width="80" height="165" rx="35"/>
+    <path class="fracture" d="M148 208 H222"/>
+    <text class="label" x="185" y="336">Poprzeczne</text>
+  </g>
+  <g aria-label="Złamanie skośne">
+    <rect class="bone" x="575" y="125" width="80" height="165" rx="35"/>
+    <path class="fracture" d="M578 235 L652 175"/>
+    <text class="label" x="615" y="336">Skośne</text>
+  </g>
+  <g aria-label="Złamanie spiralne">
+    <rect class="bone" x="145" y="390" width="80" height="165" rx="35"/>
+    <path class="fracture" d="M148 444 C205 464 157 503 222 522"/>
+    <text class="label" x="185" y="600">Spiralne</text>
+  </g>
+  <g aria-label="Złamanie wieloodłamowe">
+    <path class="bone" d="M575 390 H655 V445 L681 472 L655 500 V555 H575 V500 L549 472 L575 445 Z"/>
+    <path class="fracture" d="M576 445 L549 472 L576 500"/>
+    <path class="fracture" d="M654 445 L681 472 L654 500"/>
+    <path class="fracture" d="M575 445 L655 500"/>
+    <text class="label" x="615" y="600">Wieloodłamowe</text>
+  </g>
+
+  <line x1="60" y1="625" x2="740" y2="625" stroke="#c9ced0" stroke-width="2"/>
+  <text class="note" x="400" y="657">„Wieloodłamowe” opisuje liczbę odłamów, a nie orientację szczeliny.</text>
+</svg>

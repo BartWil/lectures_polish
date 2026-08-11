@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 690" role="img" aria-labelledby="title desc">
+  <title id="title">Mechanizm działania sił na kość</title>
+  <desc id="desc">Pięć prostych schematów w układzie trzy plus dwa pokazuje kompresję, rozciąganie, zginanie, skręcanie i ścinanie. Przy skręcaniu zaznaczono typowy, lecz niedeterministyczny, związek ze szczeliną spiralną lub skośną.</desc>
+  <style>
+    .bone { fill: #f4f5f5; stroke: #283238; stroke-width: 5; }
+    .force { fill: none; stroke: #a33a32; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow); }
+    .guide { fill: none; stroke: #283238; stroke-width: 4; stroke-dasharray: 8 7; stroke-linecap: round; }
+    .label { fill: #1b2428; font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; text-anchor: middle; }
+    .note { fill: #3f4a4f; font-family: Arial, Helvetica, sans-serif; font-size: 18px; text-anchor: middle; }
+    .small { fill: #3f4a4f; font-family: Arial, Helvetica, sans-serif; font-size: 17px; text-anchor: middle; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a33a32"/>
+    </marker>
+  </defs>
+
+  <g aria-label="Kompresja">
+    <rect class="bone" x="114" y="115" width="52" height="175" rx="26"/>
+    <path class="force" d="M140 48 V98"/>
+    <path class="force" d="M140 357 V307"/>
+    <text class="label" x="140" y="393">Kompresja</text>
+  </g>
+  <g aria-label="Rozciąganie">
+    <rect class="bone" x="424" y="115" width="52" height="175" rx="26"/>
+    <path class="force" d="M450 98 V48"/>
+    <path class="force" d="M450 307 V357"/>
+    <text class="label" x="450" y="393">Rozciąganie</text>
+  </g>
+  <g aria-label="Zginanie">
+    <path class="bone" d="M734 115 C704 158 704 247 734 290 L786 290 C756 247 756 158 786 115 Z"/>
+    <path class="force" d="M685 82 C654 135 654 181 680 208"/>
+    <path class="force" d="M835 323 C866 270 866 224 840 197"/>
+    <text class="label" x="760" y="393">Zginanie</text>
+  </g>
+  <g aria-label="Skręcanie">
+    <rect class="bone" x="254" y="465" width="52" height="130" rx="26"/>
+    <path class="force" d="M228 498 C245 455 315 455 332 498"/>
+    <path class="force" d="M332 562 C315 605 245 605 228 562"/>
+    <path class="guide" d="M260 494 C298 518 260 548 298 570"/>
+    <text class="label" x="280" y="637">Skręcanie</text>
+    <text class="small" x="280" y="660">typowy przykład: spiralna / skośna*</text>
+  </g>
+  <g aria-label="Ścinanie">
+    <path class="bone" d="M584 465 H636 V520 H624 V595 H572 V540 H584 Z"/>
+    <path class="force" d="M530 496 H570"/>
+    <path class="force" d="M690 564 H640"/>
+    <path class="guide" d="M579 527 H631"/>
+    <text class="label" x="610" y="637">Ścinanie</text>
+  </g>
+
+  <line x1="65" y1="420" x2="835" y2="420" stroke="#c9ced0" stroke-width="2"/>
+  <text class="note" x="450" y="687">* Typowy przykład zależny od okolicy anatomicznej; mechanizm nie determinuje morfologii.</text>
+</svg>

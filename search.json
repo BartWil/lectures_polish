@@ -1,15 +1,166 @@
 [
   {
-    "objectID": "content/pfk/ortopedia-traumatologia/index.html",
-    "href": "content/pfk/ortopedia-traumatologia/index.html",
-    "title": "Ortopedia i traumatologia",
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "",
+    "text": "Złamanie jest zaburzeniem ciągłości struktury kości (U.S. National Library of Medicine 2026). Można je opisać jednocześnie na kilka sposobów: przez mechanizm urazu, wygląd szczeliny, położenie odłamów, lokalizację i stan tkanek miękkich. Te opisy uzupełniają się, ale nie tworzą jednego uniwersalnego systemu klasyfikacji.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#czym-jest-złamanie",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#czym-jest-złamanie",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Czym jest złamanie",
+    "text": "Czym jest złamanie\n\n\nOkreślenia takie jak zamknięte i otwarte odnoszą się do stanu skóry i tkanek miękkich. Zmęczeniowe, patologiczne i osteoporotyczne opisują natomiast kontekst powstania lub właściwości kości. Okołoprotezowe i typu „zielonej gałązki” wskazują na szczególną sytuację kliniczną albo wzorzec urazu. Nie należy traktować tej listy jako jednego formalnego kodu klasyfikacyjnego; system AO/OTA porządkuje przede wszystkim cechy anatomiczne i morfologiczne złamania (Meinberg et al. 2018).\n\n\n\n\n\n\nWażneKluczowa zasada\n\n\n\nJedno złamanie może być równocześnie opisane przez lokalizację, morfologię, przemieszczenie i stan tkanek miękkich.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#jak-dochodzi-do-złamania",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#jak-dochodzi-do-złamania",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Jak dochodzi do złamania",
+    "text": "Jak dochodzi do złamania\n\n\n\nZłamanie może być następstwem urazu bezpośredniego lub pośredniego. Może też powstać po urazie niskoenergetycznym albo po niewielkim obciążeniu — lub bez rozpoznawalnego urazu — gdy kość jest osłabiona albo zmieniona chorobowo.\nOsobną sytuacją jest złamanie zmęczeniowe, do którego mogą prowadzić sumujące się mikrourazy (U.S. National Library of Medicine 2026).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#mechanizm-urazu-a-charakter-złamania",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#mechanizm-urazu-a-charakter-złamania",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Mechanizm urazu a charakter złamania",
+    "text": "Mechanizm urazu a charakter złamania\n\n\nDo złamania dochodzi, gdy na kość działa nadmierne obciążenie. Można je opisać jako kompresję, dystrakcję, ścinanie lub rotację; w rzeczywistym urazie siły te mogą działać łącznie.\nMechanizm pomaga rozumieć możliwy wzorzec urazu, ale nie wyznacza go w sposób bezwzględny. Przykładowo, AO opisuje w obrębie dalszej części kości udowej złamania spiralne i skośne jako mogące wynikać z sił skrętnych; jest to przykład zależny od okolicy anatomicznej, a nie reguła dla każdego złamania (AO Foundation 2026a).\n\n\n\n\n\n\n\nRysunek 1: Pięć schematów kości długiej pokazuje kolejno kompresję, rozciąganie, zginanie, skręcanie i ścinanie za pomocą strzałek. Tylko przy skręcaniu zaznaczono typowy, niedeterministyczny związek ze szczeliną spiralną lub skośną.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#podstawowe-sposoby-klasyfikacji-złamań",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#podstawowe-sposoby-klasyfikacji-złamań",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Podstawowe sposoby klasyfikacji złamań",
+    "text": "Podstawowe sposoby klasyfikacji złamań\n\n\nPoniższa tabela porządkuje podstawowe cechy używane w opisie. Nie zastępuje formalnej klasyfikacji AO/OTA (Meinberg et al. 2018).\n\n\n\nKryterium\nKategorie wymienione w prezentacji\n\n\n\n\nStan skóry i tkanek miękkich\nzamknięte, otwarte\n\n\nCharakter powstania\nostre, przewlekłe (zmęczeniowe)\n\n\nPrzebieg szczeliny\npoprzeczne, skośne, spiralne, wieloodłamowe\n\n\nPołożenie odłamów\nnieprzemieszczone, przemieszczone\n\n\nLokalizacja\ntrzonu, przynasady, nasady, stawowe\n\n\n\nOkreślenie „ostre/przewlekłe” jest tu praktycznym opisem charakteru powstania, a nie osią kodu AO/OTA.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#morfologia-i-przebieg-szczeliny-złamania",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#morfologia-i-przebieg-szczeliny-złamania",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Morfologia i przebieg szczeliny złamania",
+    "text": "Morfologia i przebieg szczeliny złamania\n\n\nPrzebieg szczeliny można opisać jako poprzeczny, skośny lub spiralny. Określenie „wieloodłamowe” informuje przede wszystkim o liczbie odłamów, dlatego nie jest tym samym wymiarem opisu co orientacja szczeliny (AO Foundation 2026a; Meinberg et al. 2018).\n\n\n\n\n\n\n\nRysunek 2: Cztery schematy tej samej kości długiej pokazują szczelinę poprzeczną, skośną i spiralną oraz złamanie wieloodłamowe z dodatkowym odłamem. Nota rozróżnia orientację szczeliny od liczby odłamów.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#przemieszczenie-odłamów",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#przemieszczenie-odłamów",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Przemieszczenie odłamów",
+    "text": "Przemieszczenie odłamów\n\n\nOpis przemieszczenia powinien być oddzielony od opisu morfologii szczeliny. Może obejmować zmianę długości (skrócenie albo distrakcję/rozejście odłamów), angulację oraz rotację. Wklinowanie jest szczególnym opisem ustawienia odłamów; nie należy utożsamiać go z każdym skróceniem (Meinberg et al. 2018).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#złamania-zamknięte-i-otwarte",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#złamania-zamknięte-i-otwarte",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Złamania zamknięte i otwarte",
+    "text": "Złamania zamknięte i otwarte\n\n\n\nW złamaniu zamkniętym nie ma komunikacji rany ze złamaniem. W złamaniu otwartym dochodzi do naruszenia skóry i tkanek miękkich oraz komunikacji rany ze złamaniem; widoczne wystawanie kości nie jest konieczne do takiego rozpoznania (AO Foundation 2026b).\nKlasyfikacja Gustilo–Andersona służy do opisu ciężkości złamań otwartych. Jej podstawowe stopnie to I, II i III, a stopień III został podzielony na IIIA, IIIB i IIIC. Uwzględnia ona przede wszystkim ciężkość rany i uszkodzenia tkanek miękkich. Typ IIIC dotyczy urazu tętniczego wymagającego naprawy dla zachowania żywotności kończyny (Gustilo i Anderson 1976; Gustilo et al. 1984; AO Foundation 2026b).\nNa tej stronie klasyfikacja pełni funkcję porządkującą: pomaga opisać uraz, ale nie jest algorytmem leczenia. Szczegółowe postępowanie z otwartym złamaniem należy do odrębnego modułu.\n\n\n\n\n\n\nAdnotacjaZakres tej strony\n\n\n\nNa tej stronie nie omawiamy szczegółowego postępowania terapeutycznego.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#do-zapamiętania",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#do-zapamiętania",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Do zapamiętania",
+    "text": "Do zapamiętania\n\n\nJedno złamanie można opisać według kilku współistniejących cech.\nMechanizm urazu może sugerować wzorzec złamania, ale go nie determinuje.\nMorfologia szczeliny, liczba odłamów i przemieszczenie to odrębne elementy opisu.\nKlasyfikacja Gustilo–Andersona porządkuje ciężkość złamań otwartych; nie jest samodzielnym algorytmem leczenia.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#pytania-kontrolne",
+    "href": "content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.html#pytania-kontrolne",
+    "title": "Złamania — mechanizmy i klasyfikacja",
+    "section": "Pytania kontrolne",
+    "text": "Pytania kontrolne\n\n\nJakie cechy mogą równocześnie opisywać jedno złamanie?\nDlaczego mechanizm urazu nie determinuje jednoznacznie morfologii złamania?\nCzym różni się opis morfologii szczeliny od opisu przemieszczenia odłamów?\nKiedy złamanie określa się jako otwarte?\nJaki jest zakres klasyfikacji Gustilo–Andersona na tej stronie?",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Złamania — mechanizmy i klasyfikacja"
+    ]
+  },
+  {
+    "objectID": "content/pfk/medycyna-sportowa/index.html",
+    "href": "content/pfk/medycyna-sportowa/index.html",
+    "title": "Medycyna sportowa",
     "section": "",
     "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
     "crumbs": [
       "PFK",
       "Podstawy fizjoterapii klinicznej",
-      "Ortopedia i traumatologia"
+      "Medycyna sportowa"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Materiały dydaktyczne",
+    "section": "",
+    "text": "Witamy w otwartej bazie materiałów dydaktycznych w języku polskim.\nStrona będzie rozwijana jako zbiór przejrzystych materiałów dla przedmiotów akademickich. Treści są tworzone w formacie Quarto (.qmd), dzięki czemu można je łatwo czytać, poprawiać i aktualizować."
+  },
+  {
+    "objectID": "index.html#dostępne-obszary",
+    "href": "index.html#dostępne-obszary",
+    "title": "Materiały dydaktyczne",
+    "section": "Dostępne obszary",
+    "text": "Dostępne obszary\n\nPodstawy fizjoterapii klinicznej"
+  },
+  {
+    "objectID": "index.html#zasady-korzystania-z-materiałów",
+    "href": "index.html#zasady-korzystania-z-materiałów",
+    "title": "Materiały dydaktyczne",
+    "section": "Zasady korzystania z materiałów",
+    "text": "Zasady korzystania z materiałów\nPrzy każdym wykorzystanym obrazie podajemy jego źródło oraz licencję. Materiały źródłowe, takie jak prezentacje i dokumenty tekstowe, są przechowywane oddzielnie od publikowanych stron."
   },
   {
     "objectID": "content/pfk/index.html",
@@ -36,36 +187,16 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Materiały dydaktyczne",
-    "section": "",
-    "text": "Witamy w otwartej bazie materiałów dydaktycznych w języku polskim.\nStrona będzie rozwijana jako zbiór przejrzystych materiałów dla przedmiotów akademickich. Treści są tworzone w formacie Quarto (.qmd), dzięki czemu można je łatwo czytać, poprawiać i aktualizować."
-  },
-  {
-    "objectID": "index.html#dostępne-obszary",
-    "href": "index.html#dostępne-obszary",
-    "title": "Materiały dydaktyczne",
-    "section": "Dostępne obszary",
-    "text": "Dostępne obszary\n\nPodstawy fizjoterapii klinicznej"
-  },
-  {
-    "objectID": "index.html#zasady-korzystania-z-materiałów",
-    "href": "index.html#zasady-korzystania-z-materiałów",
-    "title": "Materiały dydaktyczne",
-    "section": "Zasady korzystania z materiałów",
-    "text": "Zasady korzystania z materiałów\nPrzy każdym wykorzystanym obrazie podajemy jego źródło oraz licencję. Materiały źródłowe, takie jak prezentacje i dokumenty tekstowe, są przechowywane oddzielnie od publikowanych stron."
-  },
-  {
-    "objectID": "content/pfk/medycyna-sportowa/index.html",
-    "href": "content/pfk/medycyna-sportowa/index.html",
-    "title": "Medycyna sportowa",
+    "objectID": "content/pfk/ortopedia-traumatologia/index.html",
+    "href": "content/pfk/ortopedia-traumatologia/index.html",
+    "title": "Ortopedia i traumatologia",
     "section": "",
     "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
     "crumbs": [
       "PFK",
       "Podstawy fizjoterapii klinicznej",
-      "Medycyna sportowa"
+      "Ortopedia i traumatologia",
+      "Ortopedia i traumatologia"
     ]
   }
 ]
