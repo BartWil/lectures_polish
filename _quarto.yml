@@ -24,6 +24,10 @@ website:
                 - content/pfk/ortopedia-traumatologia/index.qmd
                 - text: "Złamania — mechanizmy i klasyfikacja"
                   href: content/pfk/ortopedia-traumatologia/zlamania-mechanizmy-klasyfikacja.qmd
+                - text: "Złamania — diagnostyka obrazowa"
+                  href: content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.qmd
+                - text: "Złamania — zasady leczenia"
+                  href: content/pfk/ortopedia-traumatologia/fracture-treatment-principles.qmd
             - content/pfk/medycyna-sportowa/index.qmd
   page-footer:
     left: "Materiały dydaktyczne"

@@ -68,7 +68,7 @@ zależny od okolicy anatomicznej, a nie reguła dla każdego złamania
 
 <!-- candidate source slides: 34, 35, 38–39; preferred solution: new original educational figure -->
 
-<!-- scope transfer: slides 40–41 → future unit `healing-and-rehabilitation-principles`; zrost i jego schemat są celowo wyłączone z tej strony. -->
+<!-- scope transfer: slides 40–41 → future unit `healing-principles`; zrost i jego schemat są celowo wyłączone z tej strony. -->
 <!-- scope transfer: slides 37, 43–47 i 52 → future unit `fracture-imaging-and-diagnosis`; przypadek i diagnostyka obrazowa są celowo wyłączone z tej strony. -->
 
 ## Podstawowe sposoby klasyfikacji złamań

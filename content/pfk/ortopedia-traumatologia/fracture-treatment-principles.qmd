@@ -1,0 +1,103 @@
+---
+title: "Złamania — zasady leczenia"
+description: "Ogólne ramy podejmowania decyzji w leczeniu złamań."
+date-modified: 2026-08-14
+categories:
+  - PFK
+  - ortopedia i traumatologia
+---
+
+<!-- EBM upgrade: nie jest uniwersalnym algorytmem leczenia; przed publikacją wymaga final QA. -->
+
+## Cele leczenia złamania
+
+<!-- source: slides 55–61, 72–75 -->
+<!-- evidence: FTP-SC-001 -->
+
+Leczenie złamania ma tworzyć warunki do odzyskiwania funkcji przy uwzględnieniu
+ustawienia i stabilności odłamów, tkanek miękkich oraz bezpieczeństwa pacjenta.
+Waga tych celów i sposób ich osiągania zależą od wzorca urazu, lokalizacji oraz
+kontekstu pacjenta [@aoTraumaPrinciples].
+
+## Ocena urazu i kontekstu klinicznego
+
+<!-- source: slides 57–59, 77 -->
+<!-- evidence: FTP-SC-002 -->
+
+Przed wyborem postępowania ocenia się cechy złamania, stan tkanek miękkich,
+ryzyko wtórnego przemieszczenia oraz czynniki dotyczące pacjenta. Pojedyncza
+cecha, taka jak liczba odłamów, nie wyznacza samodzielnie sposobu leczenia
+[@aoTraumaPrinciples; @niceNG37].
+
+## Leczenie zachowawcze i operacyjne — ogólne ramy
+
+<!-- source: slides 55, 58–60 -->
+<!-- evidence: FTP-SC-003 -->
+
+Leczenie zachowawcze można rozważać, gdy w konkretnym złamaniu możliwe jest
+uzyskanie i utrzymanie akceptowalnego ustawienia. W innych sytuacjach rozważa
+się stabilizację operacyjną lub inne postępowanie ukierunkowane na bezpieczeństwo
+oraz tkanki miękkie. Te ramy nie zastępują wskazań dla konkretnej kości, stawu
+ani grupy wiekowej [@aoNonoperativeCast; @aoTraumaPrinciples].
+
+## Redukcja i utrzymanie ustawienia
+
+<!-- source: slides 56–58 -->
+<!-- evidence: FTP-SC-004 -->
+
+Repozycja ma na celu uzyskanie ustawienia akceptowalnego dla danego urazu.
+Wymaga postępowania przeciwbólowego lub znieczulenia odpowiedniego do sytuacji
+klinicznej oraz oceny wyniku. Jeżeli istnieje ryzyko wtórnego przemieszczenia,
+kontrolę i ponowną ocenę planuje się dla danej lokalizacji [@aoLimitedResources;
+@niceNG38].
+
+## Stabilizacja — podstawowe koncepcje
+
+<!-- source: slides 61, 72–75 -->
+<!-- evidence: FTP-SC-005 -->
+
+Stabilizacja śródszpikowa, konstrukcje płytowe i inne techniki zespolenia są
+odmiennymi koncepcjami stabilizacji. Ich dobór wymaga odniesienia do anatomii,
+wzorca złamania, stanu tkanek miękkich i celu leczenia; ta strona nie porównuje
+ich wskazań [@aoTraumaPrinciples].
+
+<!-- scope transfer: slajdy 61, 72–75 mogą później stanowić podstawę autorskiego słownika metod stabilizacji; nie należy przenosić obrazów z PPTX. -->
+
+## Monitorowanie i ponowna ocena
+
+<!-- source: slides 56–58, 77 -->
+<!-- evidence: FTP-SC-006 -->
+
+Plan postępowania obejmuje monitorowanie tolerancji unieruchomienia, ocenę
+ustawienia oraz reagowanie na objawy mogące świadczyć o problemie. Zakres i
+terminy kontroli zależą od rodzaju złamania oraz zastosowanej metody
+[@aoNonoperativeCast; @niceNG37].
+
+## Dlaczego metoda zależy od rodzaju i lokalizacji złamania
+
+<!-- source: slides 55, 57–61, 72–77 -->
+<!-- evidence: FTP-SC-007 -->
+
+Nie istnieje jedna metoda właściwa dla wszystkich złamań. Decyzję kształtują
+między innymi lokalizacja i stabilność złamania, ustawienie odłamów, stan tkanek
+miękkich, potrzeby funkcjonalne oraz czynniki dotyczące pacjenta
+[@aoTraumaPrinciples].
+
+## Do zapamiętania
+
+<!-- source: slides 55–61, 72–77 -->
+<!-- evidence: FTP-SC-001, FTP-SC-002, FTP-SC-003, FTP-SC-005, FTP-SC-006, FTP-SC-007 -->
+
+- Leczenie złamania jest decyzją zależną od urazu, pacjenta i celu funkcjonalnego.
+- Leczenie zachowawcze i operacyjne są ramami postępowania, nie prostym podziałem
+  według jednej cechy złamania.
+- Stabilizacja, kontrola ustawienia i monitorowanie są elementami jednego planu.
+
+## Pytania kontrolne
+
+<!-- evidence: FTP-SC-001, FTP-SC-002, FTP-SC-004, FTP-SC-005, FTP-SC-007 -->
+
+1. Jakie cechy urazu i pacjenta mogą wpływać na wybór postępowania?
+2. Dlaczego nie można stworzyć jednego algorytmu leczenia wszystkich złamań?
+3. Jaki jest cel repozycji i dlaczego wymaga ona kontroli wyniku?
+4. Dlaczego metoda stabilizacji zależy od lokalizacji i wzorca złamania?

@@ -1,0 +1,93 @@
+---
+title: "Złamania — diagnostyka obrazowa"
+description: "Rola badań obrazowych w podejrzeniu złamania."
+date-modified: 2026-08-14
+categories:
+  - PFK
+  - ortopedia i traumatologia
+---
+
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-001, FID-002, FID-003 -->
+
+Badanie obrazowe ma odpowiedzieć na konkretne pytanie kliniczne. Dobór metody
+zależy między innymi od lokalizacji urazu, obrazu klinicznego, podejrzewanego
+uszkodzenia i wyniku wcześniejszego obrazowania. Ta strona przedstawia ramę
+pojęciową, a nie uniwersalny algorytm dla wszystkich złamań.
+
+## RTG jako badanie początkowe
+
+<!-- source: slide 43 -->
+<!-- evidence: FID-001, FID-002, FID-003 -->
+
+W wielu urazach kończyn radiografia jest badaniem początkowym. Odpowiednio
+dobrane projekcje zależą od okolicy anatomicznej i pytania klinicznego; często
+potrzebne są co najmniej dwie projekcje. W niektórych sytuacjach decyzję o
+wykonaniu RTG wspierają reguły kliniczne właściwe dla danej okolicy, na przykład
+stawu skokowego lub kolana [@niceNG38].
+
+::: {.callout-note}
+## Ważne ograniczenie
+
+Prawidłowy wynik pierwszego RTG nie zawsze kończy diagnostykę. Dalsze badanie
+zależy od utrzymującego się podejrzenia urazu oraz od tego, jakiej informacji
+brakuje po ocenie klinicznej i radiografii.
+:::
+
+## Kiedy rozważa się badanie uzupełniające
+
+<!-- source: slides 45–47 -->
+<!-- evidence: FID-007, FID-008, FID-009, FID-010, FID-011, FID-012 -->
+
+Tomografia komputerowa może być użyteczna, gdy potrzebna jest dokładniejsza
+ocena złożonej anatomii kostnej lub planowanie postępowania w określonym urazie.
+Wiąże się jednak z promieniowaniem jonizującym, dlatego jej zastosowanie powinno
+wynikać z pytania klinicznego [@niceNG37].
+
+Rezonans magnetyczny jest badaniem celowanym w wybranych sytuacjach, między
+innymi gdy mimo początkowego obrazowania utrzymuje się podejrzenie złamania
+utajonego lub gdy pytanie dotyczy szpiku albo tkanek miękkich. Przykładowo,
+ACR wskazuje MR jako metodę zwykle właściwą w określonych scenariuszach
+złamań stresowych, a NICE zaleca rozważenie MR jako badania pierwszego rzutu
+przy podejrzeniu złamania kości łódeczkowatej [@acrStressFracture2024;
+@niceNG38].
+
+Inne metody, w tym obrazowanie śródzabiegowe lub badania medycyny nuklearnej,
+mają zastosowanie w wybranych wskazaniach. Nie należy traktować ich jako
+automatycznego kolejnego kroku po RTG; wybór zależy od sytuacji klinicznej
+[@acrStressFracture2024; @aoTraumaPrinciples].
+
+<!-- figure: autorskie opracowanie dydaktyczne projektu, utworzone od podstaw; nie kopiuje ani nie odrysowuje slajdów 37 ani 52 z PPTX. Koncepcja oparta na evidence: FID-001, FID-003, FID-007, FID-009, FID-011. -->
+
+![Schemat koncepcyjny: lokalizacja i mechanizm urazu, badanie kliniczne, pytanie diagnostyczne oraz wynik wcześniejszego badania wspólnie kierują doborem RTG, TK, MR albo innych metod. Cztery metody są równoległymi narzędziami, nie kolejnymi obowiązkowymi etapami.](../../../assets/images/pfk/ortopedia-traumatologia/fracture-imaging-selection.svg){#fig-fracture-imaging-selection fig-alt="Schemat koncepcyjny pokazujący, że lokalizacja i mechanizm urazu, badanie kliniczne, pytanie diagnostyczne oraz wynik wcześniejszego badania wspólnie kierują doborem RTG, TK, MR albo innych metod. Cztery metody są równoległymi narzędziami, nie kolejnymi obowiązkowymi etapami." fig-cap="Dobór obrazowania w podejrzeniu złamania — schemat koncepcyjny. Metoda ma odpowiadać na pytanie kliniczne; nie jest to uniwersalny algorytm postępowania." width="100%" fig-align="center"}
+
+## Ograniczenia metod obrazowych
+
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-002, FID-006, FID-008, FID-010, FID-012 -->
+
+Każda metoda ma inne ograniczenia. W praktyce istotne są między innymi
+ekspozycja na promieniowanie, dostępność, czas badania, potrzeba pozostania w
+bezruchu oraz przydatność metody do konkretnego pytania. Nie można porównywać
+tych ograniczeń bez odniesienia do pacjenta i rodzaju urazu.
+
+## Do zapamiętania
+
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-001, FID-003, FID-007, FID-009, FID-011 -->
+
+- Obrazowanie rozpoczyna się od pytania klinicznego, a nie od stałej listy badań.
+- RTG jest często badaniem początkowym, ale liczba i rodzaj projekcji zależą od
+  okolicy urazu.
+- TK i MR odpowiadają na różne pytania i są stosowane selektywnie.
+- Utrzymujące się podejrzenie urazu po początkowym badaniu może uzasadniać
+  ponowną ocenę oraz dobór innej metody obrazowania.
+
+## Pytania kontrolne
+
+<!-- evidence: FID-001, FID-003, FID-007, FID-009 -->
+
+1. Od jakich czynników zależy wybór badania obrazowego w podejrzeniu złamania?
+2. Dlaczego prawidłowy wynik początkowego RTG nie zawsze zamyka diagnostykę?
+3. Jakiego rodzaju dodatkowej informacji może dostarczyć TK, a jakiej MR?
+4. Dlaczego na tej stronie nie ma jednego algorytmu obrazowania wszystkich złamań?
