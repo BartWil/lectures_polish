@@ -1,0 +1,74 @@
+---
+title: "Rehabilitacja po urazie — zasady ogólne"
+description: "Ogólne zasady oceny, doboru obciążenia i progresji rehabilitacji po urazie."
+date-modified: 2026-08-14
+draft: false
+categories:
+  - PFK
+  - ortopedia i traumatologia
+---
+
+<!-- EBM upgrade na podstawie REHAB-001–REHAB-006; final QA zakończony przed publikacją. -->
+<!-- scope exclusion: prehabilitacja, żywienie, krioterapia i farmakoterapia zostały świadomie wyłączone; mogą otrzymać odrębne jednostki w przyszłości. -->
+
+## Ocena funkcjonalna i cel rehabilitacji
+
+<!-- source: slides 20, 27 -->
+<!-- evidence: REHAB-001 -->
+
+Plan rehabilitacji powinien być odniesiony do rodzaju tkanki i urazu, aktualnej
+funkcji, przebiegu klinicznego oraz czynników dotyczących pacjenta. Celem nie
+jest realizacja sztywnego kalendarza, lecz bezpieczny powrót funkcji odpowiedni
+do danego problemu klinicznego [@bretherton2024; @niceNG38].
+
+## Dobór obciążenia
+
+<!-- source: slides 15–16, 20 -->
+<!-- evidence: REHAB-002, REHAB-003 -->
+
+Obciążenie jest jednym z narzędzi rehabilitacji. Jego rodzaj i dawka powinny
+wynikać z oceny stanu tkanki, tolerancji wysiłku, celu funkcjonalnego oraz
+zaleceń odnoszących się do konkretnego urazu lub procedury.
+Dowody dotyczące pojedynczej tkanki lub populacji nie wyznaczają automatycznie
+dawki dla każdego urazu [@scattoneSilva2024; @bretherton2024].
+
+## Progresja i ponowna ocena
+
+<!-- source: slides 20–21, 24–25, 27 -->
+<!-- evidence: REHAB-004, REHAB-005 -->
+
+Progresję ćwiczeń należy opierać na ponownej ocenie klinicznej i funkcjonalnej,
+a nie wyłącznie na liczbie dni lub tygodni od urazu. W odpowiednim momencie
+program może przechodzić od ochrony i odzyskiwania ruchu do wzmacniania oraz
+zadań bardziej funkcjonalnych, ale kolejność i tempo są specyficzne dla urazu
+[@bretherton2024; @scattoneSilva2024].
+
+## Granice tej strony
+
+<!-- source: slides 15–16, 20–21, 24–25, 27 -->
+<!-- evidence: REHAB-006 -->
+
+Ta strona nie zawiera uniwersalnego protokołu, progów bólu, dawek ćwiczeń ani
+terminów powrotu do aktywności. Takie decyzje wymagają dowodów i zaleceń dla
+konkretnej tkanki, rozpoznania oraz zastosowanego leczenia
+[@bretherton2024; @scattoneSilva2024].
+
+<!-- source: slide 17 (wyłącznie inspiracja dla przyszłej ryciny autorskiej; nie kopiować grafiki) -->
+<!-- figure specification: przyszła autorska rycina SVG „Ocena → dobór obciążenia → odpowiedź → ponowna ocena → progresja albo regresja”. Cel: pokazać cykliczne podejmowanie decyzji bez progów, dawek i ram czasowych. Elementy: pięć neutralnych węzłów, dwie drogi „progresja” i „modyfikacja”, dopisek „kryteria zależne od urazu”. Źródła koncepcji: REHAB-001–REHAB-006; @bretherton2024; @scattoneSilva2024. Nie kopiować grafiki ze slajdu 17. -->
+
+## Do zapamiętania
+
+<!-- source: slides 15–16, 20–21, 24–25, 27 -->
+<!-- evidence: REHAB-001, REHAB-002, REHAB-003, REHAB-004, REHAB-005, REHAB-006 -->
+
+- Rehabilitacja wymaga indywidualizacji.
+- Dobór i progresja obciążenia wymagają ponownej oceny.
+- Ramy czasowe mogą wspierać planowanie, ale nie zastępują kryteriów klinicznych.
+
+## Pytania kontrolne
+
+<!-- evidence: REHAB-001, REHAB-002, REHAB-004, REHAB-006 -->
+
+1. Dlaczego plan rehabilitacji nie powinien opierać się wyłącznie na kalendarzu?
+2. Jakie informacje mogą wpływać na dobór obciążenia?
+3. Jaka jest rola ponownej oceny w progresji programu?

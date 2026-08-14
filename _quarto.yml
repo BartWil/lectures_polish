@@ -28,6 +28,10 @@ website:
                   href: content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.qmd
                 - text: "Złamania — zasady leczenia"
                   href: content/pfk/ortopedia-traumatologia/fracture-treatment-principles.qmd
+                - text: "Gojenie tkanek po urazie — podstawy"
+                  href: content/pfk/ortopedia-traumatologia/healing-principles.qmd
+                - text: "Rehabilitacja po urazie — zasady ogólne"
+                  href: content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.qmd
             - content/pfk/medycyna-sportowa/index.qmd
   page-footer:
     left: "Materiały dydaktyczne"

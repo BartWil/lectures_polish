@@ -1,0 +1,75 @@
+---
+title: "Gojenie tkanek po urazie — podstawy"
+description: "Biologiczne podstawy gojenia tkanek po urazie."
+date-modified: 2026-08-14
+draft: false
+categories:
+  - PFK
+  - ortopedia i traumatologia
+---
+
+<!-- EBM upgrade na podstawie HEAL-001–HEAL-007; final QA zakończony przed publikacją. -->
+<!-- scope exclusion: prehabilitacja, żywienie, krioterapia i farmakoterapia zostały świadomie wyłączone; mogą otrzymać odrębne jednostki w przyszłości. -->
+
+## Proces biologiczny
+
+<!-- source: slides 10, 12–14 -->
+<!-- evidence: HEAL-001, HEAL-002 -->
+
+Gojenie po urazie jest procesem biologicznym zależnym od rodzaju tkanki i
+charakteru uszkodzenia. Dydaktycznie można wyróżnić reakcję zapalną, naprawę
+oraz przebudowę, ale nie należy traktować tych etapów jako sztywnych,
+niezależnych przedziałów czasu [@molitoris2024; @glaser2025].
+
+## Nakładające się etapy gojenia
+
+<!-- source: slides 10, 12–14 -->
+<!-- evidence: HEAL-002, HEAL-003, HEAL-004 -->
+
+We wczesnej odpowiedzi organizmu dochodzi między innymi do hemostazy, zmian
+naczyniowych i napływu komórek zapalnych. W dalszym przebiegu powstaje tkanka
+naprawcza, zachodzą procesy angiogenezy i odkładania macierzy, a następnie jej
+przebudowa. Te procesy mogą występować równolegle, a ich znaczenie zmienia się
+w czasie [@molitoris2024; @glaser2025].
+
+## Różnice między tkankami
+
+<!-- source: slides 18–19 -->
+<!-- evidence: HEAL-005, HEAL-006 -->
+
+Kość, ścięgno, więzadło, mięsień i chrząstka nie goją się w identyczny sposób.
+Różnią się między innymi budową, ukrwieniem, mechaniką oraz potencjałem
+naprawczym. W konsekwencji czas i przebieg odzyskiwania funkcji nie mogą być
+przenoszone bezpośrednio z jednej tkanki lub jednego urazu na inny
+[@molitoris2024; @glaser2025].
+
+## Obciążenie a adaptacja tkanki
+
+<!-- source: slides 14–15 -->
+<!-- evidence: HEAL-007 -->
+
+Bodźce mechaniczne uczestniczą w adaptacji gojącej się tkanki. Ich wpływ zależy
+jednak od rodzaju tkanki, etapu gojenia oraz warunków urazu; sama informacja o
+czasie od urazu nie określa bezpiecznego obciążenia [@glaser2025].
+
+<!-- source: slide 11 (wyłącznie inspiracja dla przyszłej ryciny autorskiej; nie kopiować wykresu) -->
+<!-- figure specification: przyszła autorska rycina SVG „Nakładające się procesy gojenia”. Cel: pokazać odpowiedź zapalną, naprawę i przebudowę jako częściowo nakładające się pasma bez osi dni/tygodni. Elementy: trzy opisane pasma, strzałka „czas”, dopisek „przebieg zależy od tkanki i urazu”. Źródła koncepcji: HEAL-002, HEAL-003, HEAL-004; @molitoris2024; @glaser2025. Nie kopiować wykresu ze slajdu 11. -->
+
+## Do zapamiętania
+
+<!-- source: slides 10, 12–15, 18–19 -->
+<!-- evidence: HEAL-001, HEAL-002, HEAL-005, HEAL-006, HEAL-007 -->
+
+- Model etapów gojenia pomaga porządkować proces, lecz etapy mogą się nakładać.
+- Rodzaj tkanki i charakter urazu wpływają na przebieg gojenia.
+- Obciążenie mechaniczne jest jednym z elementów adaptacji, a nie samodzielnym
+  wyznacznikiem postępowania.
+
+## Pytania kontrolne
+
+<!-- evidence: HEAL-002, HEAL-005, HEAL-007 -->
+
+1. Dlaczego etapów gojenia nie należy traktować jako sztywnych przedziałów czasu?
+2. Jakie różnice między tkankami ograniczają możliwość przenoszenia jednego
+   protokołu na każdy uraz?
+3. Dlaczego czas od urazu nie wystarcza do doboru obciążenia?
