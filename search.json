@@ -130,6 +130,19 @@
     ]
   },
   {
+    "objectID": "content/pfk/ortopedia-traumatologia/index.html",
+    "href": "content/pfk/ortopedia-traumatologia/index.html",
+    "title": "Ortopedia i traumatologia",
+    "section": "",
+    "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Ortopedia i traumatologia"
+    ]
+  },
+  {
     "objectID": "content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html",
     "href": "content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html",
     "title": "Złamania — zasady leczenia",
@@ -395,16 +408,185 @@
     ]
   },
   {
-    "objectID": "content/pfk/ortopedia-traumatologia/index.html",
-    "href": "content/pfk/ortopedia-traumatologia/index.html",
-    "title": "Ortopedia i traumatologia",
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html",
+    "title": "Gojenie tkanek po urazie — podstawy",
     "section": "",
-    "text": "Materiały do przedmiotu będą dodawane w kolejnych etapach.",
+    "text": "Gojenie po urazie jest procesem biologicznym zależnym od rodzaju tkanki i charakteru uszkodzenia. Dydaktycznie można wyróżnić reakcję zapalną, naprawę oraz przebudowę, ale nie należy traktować tych etapów jako sztywnych, niezależnych przedziałów czasu (Molitoris et al. 2024; Gläser et al. 2025).",
     "crumbs": [
       "PFK",
       "Podstawy fizjoterapii klinicznej",
       "Ortopedia i traumatologia",
-      "Ortopedia i traumatologia"
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#proces-biologiczny",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#proces-biologiczny",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "",
+    "text": "Gojenie po urazie jest procesem biologicznym zależnym od rodzaju tkanki i charakteru uszkodzenia. Dydaktycznie można wyróżnić reakcję zapalną, naprawę oraz przebudowę, ale nie należy traktować tych etapów jako sztywnych, niezależnych przedziałów czasu (Molitoris et al. 2024; Gläser et al. 2025).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#nakładające-się-etapy-gojenia",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#nakładające-się-etapy-gojenia",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "Nakładające się etapy gojenia",
+    "text": "Nakładające się etapy gojenia\n\n\nWe wczesnej odpowiedzi organizmu dochodzi między innymi do hemostazy, zmian naczyniowych i napływu komórek zapalnych. W dalszym przebiegu powstaje tkanka naprawcza, zachodzą procesy angiogenezy i odkładania macierzy, a następnie jej przebudowa. Te procesy mogą występować równolegle, a ich znaczenie zmienia się w czasie (Molitoris et al. 2024; Gläser et al. 2025).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#różnice-między-tkankami",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#różnice-między-tkankami",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "Różnice między tkankami",
+    "text": "Różnice między tkankami\n\n\nKość, ścięgno, więzadło, mięsień i chrząstka nie goją się w identyczny sposób. Różnią się między innymi budową, ukrwieniem, mechaniką oraz potencjałem naprawczym. W konsekwencji czas i przebieg odzyskiwania funkcji nie mogą być przenoszone bezpośrednio z jednej tkanki lub jednego urazu na inny (Molitoris et al. 2024; Gläser et al. 2025).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#obciążenie-a-adaptacja-tkanki",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#obciążenie-a-adaptacja-tkanki",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "Obciążenie a adaptacja tkanki",
+    "text": "Obciążenie a adaptacja tkanki\n\n\nBodźce mechaniczne uczestniczą w adaptacji gojącej się tkanki. Ich wpływ zależy jednak od rodzaju tkanki, etapu gojenia oraz warunków urazu; sama informacja o czasie od urazu nie określa bezpiecznego obciążenia (Gläser et al. 2025).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#do-zapamiętania",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#do-zapamiętania",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "Do zapamiętania",
+    "text": "Do zapamiętania\n\n\n\nModel etapów gojenia pomaga porządkować proces, lecz etapy mogą się nakładać.\nRodzaj tkanki i charakter urazu wpływają na przebieg gojenia.\nObciążenie mechaniczne jest jednym z elementów adaptacji, a nie samodzielnym wyznacznikiem postępowania.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/healing-principles.html#pytania-kontrolne",
+    "href": "content/pfk/ortopedia-traumatologia/healing-principles.html#pytania-kontrolne",
+    "title": "Gojenie tkanek po urazie — podstawy",
+    "section": "Pytania kontrolne",
+    "text": "Pytania kontrolne\n\n\nDlaczego etapów gojenia nie należy traktować jako sztywnych przedziałów czasu?\nJakie różnice między tkankami ograniczają możliwość przenoszenia jednego protokołu na każdy uraz?\nDlaczego czas od urazu nie wystarcza do doboru obciążenia?",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Gojenie tkanek po urazie — podstawy"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "",
+    "text": "Plan rehabilitacji powinien być odniesiony do rodzaju tkanki i urazu, aktualnej funkcji, przebiegu klinicznego oraz czynników dotyczących pacjenta. Celem nie jest realizacja sztywnego kalendarza, lecz bezpieczny powrót funkcji odpowiedni do danego problemu klinicznego (Bretherton et al. 2024; National Institute for Health and Care Excellence 2016).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#ocena-funkcjonalna-i-cel-rehabilitacji",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#ocena-funkcjonalna-i-cel-rehabilitacji",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "",
+    "text": "Plan rehabilitacji powinien być odniesiony do rodzaju tkanki i urazu, aktualnej funkcji, przebiegu klinicznego oraz czynników dotyczących pacjenta. Celem nie jest realizacja sztywnego kalendarza, lecz bezpieczny powrót funkcji odpowiedni do danego problemu klinicznego (Bretherton et al. 2024; National Institute for Health and Care Excellence 2016).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#dobór-obciążenia",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#dobór-obciążenia",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "Dobór obciążenia",
+    "text": "Dobór obciążenia\n\n\nObciążenie jest jednym z narzędzi rehabilitacji. Jego rodzaj i dawka powinny wynikać z oceny stanu tkanki, tolerancji wysiłku, celu funkcjonalnego oraz zaleceń odnoszących się do konkretnego urazu lub procedury. Dowody dotyczące pojedynczej tkanki lub populacji nie wyznaczają automatycznie dawki dla każdego urazu (Scattone Silva et al. 2024; Bretherton et al. 2024).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#progresja-i-ponowna-ocena",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#progresja-i-ponowna-ocena",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "Progresja i ponowna ocena",
+    "text": "Progresja i ponowna ocena\n\n\nProgresję ćwiczeń należy opierać na ponownej ocenie klinicznej i funkcjonalnej, a nie wyłącznie na liczbie dni lub tygodni od urazu. W odpowiednim momencie program może przechodzić od ochrony i odzyskiwania ruchu do wzmacniania oraz zadań bardziej funkcjonalnych, ale kolejność i tempo są specyficzne dla urazu (Bretherton et al. 2024; Scattone Silva et al. 2024).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#granice-tej-strony",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#granice-tej-strony",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "Granice tej strony",
+    "text": "Granice tej strony\n\n\nTa strona nie zawiera uniwersalnego protokołu, progów bólu, dawek ćwiczeń ani terminów powrotu do aktywności. Takie decyzje wymagają dowodów i zaleceń dla konkretnej tkanki, rozpoznania oraz zastosowanego leczenia (Bretherton et al. 2024; Scattone Silva et al. 2024).",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#do-zapamiętania",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#do-zapamiętania",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "Do zapamiętania",
+    "text": "Do zapamiętania\n\n\n\nRehabilitacja wymaga indywidualizacji.\nDobór i progresja obciążenia wymagają ponownej oceny.\nRamy czasowe mogą wspierać planowanie, ale nie zastępują kryteriów klinicznych.",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
+    ]
+  },
+  {
+    "objectID": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#pytania-kontrolne",
+    "href": "content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.html#pytania-kontrolne",
+    "title": "Rehabilitacja po urazie — zasady ogólne",
+    "section": "Pytania kontrolne",
+    "text": "Pytania kontrolne\n\n\nDlaczego plan rehabilitacji nie powinien opierać się wyłącznie na kalendarzu?\nJakie informacje mogą wpływać na dobór obciążenia?\nJaka jest rola ponownej oceny w progresji programu?",
+    "crumbs": [
+      "PFK",
+      "Podstawy fizjoterapii klinicznej",
+      "Ortopedia i traumatologia",
+      "Rehabilitacja po urazie — zasady ogólne"
     ]
   }
 ]
