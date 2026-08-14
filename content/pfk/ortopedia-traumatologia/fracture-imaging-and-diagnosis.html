@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Rola badań obrazowych w podejrzeniu złamania.">
 
-<title>Medycyna sportowa – Materiały dydaktyczne</title>
+<title>Złamania — diagnostyka obrazowa – Materiały dydaktyczne</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,7 +27,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -114,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Przełącz pasek boczny" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/medycyna-sportowa/index.html">Medycyna sportowa</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/index.html">Ortopedia i traumatologia</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.html">Złamania — diagnostyka obrazowa</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Przełącz pasek boczny" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -143,13 +163,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Ortopedia i traumatologia</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Przełącz sekcję">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Przełącz sekcję">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../content/pfk/ortopedia-traumatologia/index.html" class="sidebar-item-text sidebar-link">
@@ -164,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Złamania — diagnostyka obrazowa</span></a>
   </div>
 </li>
@@ -178,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/pfk/medycyna-sportowa/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../content/pfk/medycyna-sportowa/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Medycyna sportowa</span></a>
   </div>
 </li>
@@ -189,23 +209,48 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Na tej stronie</h2>
+   
+  <ul>
+  <li><a href="#rtg-jako-badanie-początkowe" id="toc-rtg-jako-badanie-początkowe" class="nav-link active" data-scroll-target="#rtg-jako-badanie-początkowe">RTG jako badanie początkowe</a></li>
+  <li><a href="#kiedy-rozważa-się-badanie-uzupełniające" id="toc-kiedy-rozważa-się-badanie-uzupełniające" class="nav-link" data-scroll-target="#kiedy-rozważa-się-badanie-uzupełniające">Kiedy rozważa się badanie uzupełniające</a></li>
+  <li><a href="#ograniczenia-metod-obrazowych" id="toc-ograniczenia-metod-obrazowych" class="nav-link" data-scroll-target="#ograniczenia-metod-obrazowych">Ograniczenia metod obrazowych</a></li>
+  <li><a href="#do-zapamiętania" id="toc-do-zapamiętania" class="nav-link" data-scroll-target="#do-zapamiętania">Do zapamiętania</a></li>
+  <li><a href="#pytania-kontrolne" id="toc-pytania-kontrolne" class="nav-link" data-scroll-target="#pytania-kontrolne">Pytania kontrolne</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/medycyna-sportowa/index.html">Medycyna sportowa</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/index.html">Ortopedia i traumatologia</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/fracture-imaging-and-diagnosis.html">Złamania — diagnostyka obrazowa</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Medycyna sportowa</h1>
-</div>
+<h1 class="title">Złamania — diagnostyka obrazowa</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">PFK</div>
+    <div class="quarto-category">ortopedia i traumatologia</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Rola badań obrazowych w podejrzeniu złamania.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">Zmodyfikowano</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">14 sierpnia 2026</p>
+    </div>
+  </div>
     
   </div>
   
@@ -214,11 +259,92 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Materiały do przedmiotu będą dodawane w kolejnych etapach.</p>
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-001, FID-002, FID-003 -->
+<p>Badanie obrazowe ma odpowiedzieć na konkretne pytanie kliniczne. Dobór metody zależy między innymi od lokalizacji urazu, obrazu klinicznego, podejrzewanego uszkodzenia i wyniku wcześniejszego obrazowania. Ta strona przedstawia ramę pojęciową, a nie uniwersalny algorytm dla wszystkich złamań.</p>
+<section id="rtg-jako-badanie-początkowe" class="level2">
+<h2 class="anchored" data-anchor-id="rtg-jako-badanie-początkowe">RTG jako badanie początkowe</h2>
+<!-- source: slide 43 -->
+<!-- evidence: FID-001, FID-002, FID-003 -->
+<p>W wielu urazach kończyn radiografia jest badaniem początkowym. Odpowiednio dobrane projekcje zależą od okolicy anatomicznej i pytania klinicznego; często potrzebne są co najmniej dwie projekcje. W niektórych sytuacjach decyzję o wykonaniu RTG wspierają reguły kliniczne właściwe dla danej okolicy, na przykład stawu skokowego lub kolana <span class="citation" data-cites="niceNG38">(<a href="#ref-niceNG38" role="doc-biblioref">National Institute for Health and Care Excellence 2016b</a>)</span>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Adnotacja</span>Ważne ograniczenie
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Prawidłowy wynik pierwszego RTG nie zawsze kończy diagnostykę. Dalsze badanie zależy od utrzymującego się podejrzenia urazu oraz od tego, jakiej informacji brakuje po ocenie klinicznej i radiografii.</p>
+</div>
+</div>
+</section>
+<section id="kiedy-rozważa-się-badanie-uzupełniające" class="level2">
+<h2 class="anchored" data-anchor-id="kiedy-rozważa-się-badanie-uzupełniające">Kiedy rozważa się badanie uzupełniające</h2>
+<!-- source: slides 45–47 -->
+<!-- evidence: FID-007, FID-008, FID-009, FID-010, FID-011, FID-012 -->
+<p>Tomografia komputerowa może być użyteczna, gdy potrzebna jest dokładniejsza ocena złożonej anatomii kostnej lub planowanie postępowania w określonym urazie. Wiąże się jednak z promieniowaniem jonizującym, dlatego jej zastosowanie powinno wynikać z pytania klinicznego <span class="citation" data-cites="niceNG37">(<a href="#ref-niceNG37" role="doc-biblioref">National Institute for Health and Care Excellence 2016a</a>)</span>.</p>
+<p>Rezonans magnetyczny jest badaniem celowanym w wybranych sytuacjach, między innymi gdy mimo początkowego obrazowania utrzymuje się podejrzenie złamania utajonego lub gdy pytanie dotyczy szpiku albo tkanek miękkich. Przykładowo, ACR wskazuje MR jako metodę zwykle właściwą w określonych scenariuszach złamań stresowych, a NICE zaleca rozważenie MR jako badania pierwszego rzutu przy podejrzeniu złamania kości łódeczkowatej <span class="citation" data-cites="acrStressFracture2024 niceNG38">(<a href="#ref-acrStressFracture2024" role="doc-biblioref">American College of Radiology 2024</a>; <a href="#ref-niceNG38" role="doc-biblioref">National Institute for Health and Care Excellence 2016b</a>)</span>.</p>
+<p>Inne metody, w tym obrazowanie śródzabiegowe lub badania medycyny nuklearnej, mają zastosowanie w wybranych wskazaniach. Nie należy traktować ich jako automatycznego kolejnego kroku po RTG; wybór zależy od sytuacji klinicznej <span class="citation" data-cites="acrStressFracture2024 aoTraumaPrinciples">(<a href="#ref-acrStressFracture2024" role="doc-biblioref">American College of Radiology 2024</a>; <a href="#ref-aoTraumaPrinciples" role="doc-biblioref">AO Foundation 2026</a>)</span>.</p>
+<!-- figure: autorskie opracowanie dydaktyczne projektu, utworzone od podstaw; nie kopiuje ani nie odrysowuje slajdów 37 ani 52 z PPTX. Koncepcja oparta na evidence: FID-001, FID-003, FID-007, FID-009, FID-011. -->
+<div id="fig-fracture-imaging-selection" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Schemat koncepcyjny pokazujący, że lokalizacja i mechanizm urazu, badanie kliniczne, pytanie diagnostyczne oraz wynik wcześniejszego badania wspólnie kierują doborem RTG, TK, MR albo innych metod. Cztery metody są równoległymi narzędziami, nie kolejnymi obowiązkowymi etapami." data-fig-cap="Dobór obrazowania w podejrzeniu złamania — schemat koncepcyjny. Metoda ma odpowiadać na pytanie kliniczne; nie jest to uniwersalny algorytm postępowania." data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-fracture-imaging-selection-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../../../assets/images/pfk/ortopedia-traumatologia/fracture-imaging-selection.svg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" data-fig-cap="Dobór obrazowania w podejrzeniu złamania — schemat koncepcyjny. Metoda ma odpowiadać na pytanie kliniczne; nie jest to uniwersalny algorytm postępowania." alt="Schemat koncepcyjny pokazujący, że lokalizacja i mechanizm urazu, badanie kliniczne, pytanie diagnostyczne oraz wynik wcześniejszego badania wspólnie kierują doborem RTG, TK, MR albo innych metod. Cztery metody są równoległymi narzędziami, nie kolejnymi obowiązkowymi etapami.">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-fracture-imaging-selection-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Rysunek&nbsp;1: Schemat koncepcyjny: lokalizacja i mechanizm urazu, badanie kliniczne, pytanie diagnostyczne oraz wynik wcześniejszego badania wspólnie kierują doborem RTG, TK, MR albo innych metod. Cztery metody są równoległymi narzędziami, nie kolejnymi obowiązkowymi etapami.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="ograniczenia-metod-obrazowych" class="level2">
+<h2 class="anchored" data-anchor-id="ograniczenia-metod-obrazowych">Ograniczenia metod obrazowych</h2>
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-002, FID-006, FID-008, FID-010, FID-012 -->
+<p>Każda metoda ma inne ograniczenia. W praktyce istotne są między innymi ekspozycja na promieniowanie, dostępność, czas badania, potrzeba pozostania w bezruchu oraz przydatność metody do konkretnego pytania. Nie można porównywać tych ograniczeń bez odniesienia do pacjenta i rodzaju urazu.</p>
+</section>
+<section id="do-zapamiętania" class="level2">
+<h2 class="anchored" data-anchor-id="do-zapamiętania">Do zapamiętania</h2>
+<!-- source: slides 43–47 -->
+<!-- evidence: FID-001, FID-003, FID-007, FID-009, FID-011 -->
+<ul>
+<li>Obrazowanie rozpoczyna się od pytania klinicznego, a nie od stałej listy badań.</li>
+<li>RTG jest często badaniem początkowym, ale liczba i rodzaj projekcji zależą od okolicy urazu.</li>
+<li>TK i MR odpowiadają na różne pytania i są stosowane selektywnie.</li>
+<li>Utrzymujące się podejrzenie urazu po początkowym badaniu może uzasadniać ponowną ocenę oraz dobór innej metody obrazowania.</li>
+</ul>
+</section>
+<section id="pytania-kontrolne" class="level2">
+<h2 class="anchored" data-anchor-id="pytania-kontrolne">Pytania kontrolne</h2>
+<!-- evidence: FID-001, FID-003, FID-007, FID-009 -->
+<ol type="1">
+<li>Od jakich czynników zależy wybór badania obrazowego w podejrzeniu złamania?</li>
+<li>Dlaczego prawidłowy wynik początkowego RTG nie zawsze zamyka diagnostykę?</li>
+<li>Jakiego rodzaju dodatkowej informacji może dostarczyć TK, a jakiej MR?</li>
+<li>Dlaczego na tej stronie nie ma jednego algorytmu obrazowania wszystkich złamań?</li>
+</ol>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Bibliografia</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-acrStressFracture2024" class="csl-entry" role="listitem">
+American College of Radiology. 2024. <span>„<span>ACR Appropriateness Criteria</span>: Stress (Fatigue-Insufficiency) Fracture, Including Sacrum, Excluding Other Vertebrae”</span>. <a href="https://acsearch.acr.org/list/GetAppendix?PanelName=Musculoskeletal&amp;TopicId=93">https://acsearch.acr.org/list/GetAppendix?PanelName=Musculoskeletal&amp;TopicId=93</a>.
+</div>
+<div id="ref-aoTraumaPrinciples" class="csl-entry" role="listitem">
+AO Foundation. 2026. <span>„<span>AO Trauma Course</span>: Principles of Fracture Management”</span>. <a href="https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/curriculum/principles-of-fracture-management-for-orp">https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/curriculum/principles-of-fracture-management-for-orp</a>.
+</div>
+<div id="ref-niceNG37" class="csl-entry" role="listitem">
+National Institute for Health and Care Excellence. 2016a. <span>„Fractures (complex): assessment and management (<span>NG37</span>)”</span>. <a href="https://www.nice.org.uk/guidance/ng37/chapter/recommendations">https://www.nice.org.uk/guidance/ng37/chapter/recommendations</a>.
+</div>
+<div id="ref-niceNG38" class="csl-entry" role="listitem">
+National Institute for Health and Care Excellence. 2016b. <span>„Fractures (non-complex): assessment and management (<span>NG38</span>)”</span>. <a href="https://www.nice.org.uk/guidance/ng38/chapter/recommendations">https://www.nice.org.uk/guidance/ng38/chapter/recommendations</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

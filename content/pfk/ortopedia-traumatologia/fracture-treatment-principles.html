@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Ogólne ramy podejmowania decyzji w leczeniu złamań.">
 
-<title>Medycyna sportowa – Materiały dydaktyczne</title>
+<title>Złamania — zasady leczenia – Materiały dydaktyczne</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,7 +27,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -114,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Przełącz pasek boczny" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/medycyna-sportowa/index.html">Medycyna sportowa</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/index.html">Ortopedia i traumatologia</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html">Złamania — zasady leczenia</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Przełącz pasek boczny" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -143,13 +163,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Ortopedia i traumatologia</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Przełącz sekcję">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Przełącz sekcję">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../content/pfk/ortopedia-traumatologia/index.html" class="sidebar-item-text sidebar-link">
@@ -170,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Złamania — zasady leczenia</span></a>
   </div>
 </li>
@@ -178,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/pfk/medycyna-sportowa/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../content/pfk/medycyna-sportowa/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Medycyna sportowa</span></a>
   </div>
 </li>
@@ -189,23 +209,52 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Na tej stronie</h2>
+   
+  <ul>
+  <li><a href="#cele-leczenia-złamania" id="toc-cele-leczenia-złamania" class="nav-link active" data-scroll-target="#cele-leczenia-złamania">Cele leczenia złamania</a></li>
+  <li><a href="#ocena-urazu-i-kontekstu-klinicznego" id="toc-ocena-urazu-i-kontekstu-klinicznego" class="nav-link" data-scroll-target="#ocena-urazu-i-kontekstu-klinicznego">Ocena urazu i kontekstu klinicznego</a></li>
+  <li><a href="#leczenie-zachowawcze-i-operacyjne-ogólne-ramy" id="toc-leczenie-zachowawcze-i-operacyjne-ogólne-ramy" class="nav-link" data-scroll-target="#leczenie-zachowawcze-i-operacyjne-ogólne-ramy">Leczenie zachowawcze i operacyjne — ogólne ramy</a></li>
+  <li><a href="#redukcja-i-utrzymanie-ustawienia" id="toc-redukcja-i-utrzymanie-ustawienia" class="nav-link" data-scroll-target="#redukcja-i-utrzymanie-ustawienia">Redukcja i utrzymanie ustawienia</a></li>
+  <li><a href="#stabilizacja-podstawowe-koncepcje" id="toc-stabilizacja-podstawowe-koncepcje" class="nav-link" data-scroll-target="#stabilizacja-podstawowe-koncepcje">Stabilizacja — podstawowe koncepcje</a></li>
+  <li><a href="#monitorowanie-i-ponowna-ocena" id="toc-monitorowanie-i-ponowna-ocena" class="nav-link" data-scroll-target="#monitorowanie-i-ponowna-ocena">Monitorowanie i ponowna ocena</a></li>
+  <li><a href="#dlaczego-metoda-zależy-od-rodzaju-i-lokalizacji-złamania" id="toc-dlaczego-metoda-zależy-od-rodzaju-i-lokalizacji-złamania" class="nav-link" data-scroll-target="#dlaczego-metoda-zależy-od-rodzaju-i-lokalizacji-złamania">Dlaczego metoda zależy od rodzaju i lokalizacji złamania</a></li>
+  <li><a href="#do-zapamiętania" id="toc-do-zapamiętania" class="nav-link" data-scroll-target="#do-zapamiętania">Do zapamiętania</a></li>
+  <li><a href="#pytania-kontrolne" id="toc-pytania-kontrolne" class="nav-link" data-scroll-target="#pytania-kontrolne">Pytania kontrolne</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/medycyna-sportowa/index.html">Medycyna sportowa</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/pfk/index.html">Podstawy fizjoterapii klinicznej</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/index.html">Ortopedia i traumatologia</a></li><li class="breadcrumb-item"><a href="../../../content/pfk/ortopedia-traumatologia/fracture-treatment-principles.html">Złamania — zasady leczenia</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Medycyna sportowa</h1>
-</div>
+<h1 class="title">Złamania — zasady leczenia</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">PFK</div>
+    <div class="quarto-category">ortopedia i traumatologia</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Ogólne ramy podejmowania decyzji w leczeniu złamań.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">Zmodyfikowano</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">14 sierpnia 2026</p>
+    </div>
+  </div>
     
   </div>
   
@@ -214,11 +263,91 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Materiały do przedmiotu będą dodawane w kolejnych etapach.</p>
+<!-- EBM upgrade: nie jest uniwersalnym algorytmem leczenia; przed publikacją wymaga final QA. -->
+<section id="cele-leczenia-złamania" class="level2">
+<h2 class="anchored" data-anchor-id="cele-leczenia-złamania">Cele leczenia złamania</h2>
+<!-- source: slides 55–61, 72–75 -->
+<!-- evidence: FTP-SC-001 -->
+<p>Leczenie złamania ma tworzyć warunki do odzyskiwania funkcji przy uwzględnieniu ustawienia i stabilności odłamów, tkanek miękkich oraz bezpieczeństwa pacjenta. Waga tych celów i sposób ich osiągania zależą od wzorca urazu, lokalizacji oraz kontekstu pacjenta <span class="citation" data-cites="aoTraumaPrinciples">(<a href="#ref-aoTraumaPrinciples" role="doc-biblioref">AO Foundation 2026a</a>)</span>.</p>
+</section>
+<section id="ocena-urazu-i-kontekstu-klinicznego" class="level2">
+<h2 class="anchored" data-anchor-id="ocena-urazu-i-kontekstu-klinicznego">Ocena urazu i kontekstu klinicznego</h2>
+<!-- source: slides 57–59, 77 -->
+<!-- evidence: FTP-SC-002 -->
+<p>Przed wyborem postępowania ocenia się cechy złamania, stan tkanek miękkich, ryzyko wtórnego przemieszczenia oraz czynniki dotyczące pacjenta. Pojedyncza cecha, taka jak liczba odłamów, nie wyznacza samodzielnie sposobu leczenia <span class="citation" data-cites="aoTraumaPrinciples niceNG37">(<a href="#ref-aoTraumaPrinciples" role="doc-biblioref">AO Foundation 2026a</a>; <a href="#ref-niceNG37" role="doc-biblioref">National Institute for Health and Care Excellence 2016a</a>)</span>.</p>
+</section>
+<section id="leczenie-zachowawcze-i-operacyjne-ogólne-ramy" class="level2">
+<h2 class="anchored" data-anchor-id="leczenie-zachowawcze-i-operacyjne-ogólne-ramy">Leczenie zachowawcze i operacyjne — ogólne ramy</h2>
+<!-- source: slides 55, 58–60 -->
+<!-- evidence: FTP-SC-003 -->
+<p>Leczenie zachowawcze można rozważać, gdy w konkretnym złamaniu możliwe jest uzyskanie i utrzymanie akceptowalnego ustawienia. W innych sytuacjach rozważa się stabilizację operacyjną lub inne postępowanie ukierunkowane na bezpieczeństwo oraz tkanki miękkie. Te ramy nie zastępują wskazań dla konkretnej kości, stawu ani grupy wiekowej <span class="citation" data-cites="aoNonoperativeCast aoTraumaPrinciples">(<a href="#ref-aoNonoperativeCast" role="doc-biblioref">AO Foundation 2026c</a>, <a href="#ref-aoTraumaPrinciples" role="doc-biblioref">2026a</a>)</span>.</p>
+</section>
+<section id="redukcja-i-utrzymanie-ustawienia" class="level2">
+<h2 class="anchored" data-anchor-id="redukcja-i-utrzymanie-ustawienia">Redukcja i utrzymanie ustawienia</h2>
+<!-- source: slides 56–58 -->
+<!-- evidence: FTP-SC-004 -->
+<p>Repozycja ma na celu uzyskanie ustawienia akceptowalnego dla danego urazu. Wymaga postępowania przeciwbólowego lub znieczulenia odpowiedniego do sytuacji klinicznej oraz oceny wyniku. Jeżeli istnieje ryzyko wtórnego przemieszczenia, kontrolę i ponowną ocenę planuje się dla danej lokalizacji <span class="citation" data-cites="aoLimitedResources niceNG38">(<a href="#ref-aoLimitedResources" role="doc-biblioref">AO Foundation 2026b</a>; <a href="#ref-niceNG38" role="doc-biblioref">National Institute for Health and Care Excellence 2016b</a>)</span>.</p>
+</section>
+<section id="stabilizacja-podstawowe-koncepcje" class="level2">
+<h2 class="anchored" data-anchor-id="stabilizacja-podstawowe-koncepcje">Stabilizacja — podstawowe koncepcje</h2>
+<!-- source: slides 61, 72–75 -->
+<!-- evidence: FTP-SC-005 -->
+<p>Stabilizacja śródszpikowa, konstrukcje płytowe i inne techniki zespolenia są odmiennymi koncepcjami stabilizacji. Ich dobór wymaga odniesienia do anatomii, wzorca złamania, stanu tkanek miękkich i celu leczenia; ta strona nie porównuje ich wskazań <span class="citation" data-cites="aoTraumaPrinciples">(<a href="#ref-aoTraumaPrinciples" role="doc-biblioref">AO Foundation 2026a</a>)</span>.</p>
+<!-- scope transfer: slajdy 61, 72–75 mogą później stanowić podstawę autorskiego słownika metod stabilizacji; nie należy przenosić obrazów z PPTX. -->
+</section>
+<section id="monitorowanie-i-ponowna-ocena" class="level2">
+<h2 class="anchored" data-anchor-id="monitorowanie-i-ponowna-ocena">Monitorowanie i ponowna ocena</h2>
+<!-- source: slides 56–58, 77 -->
+<!-- evidence: FTP-SC-006 -->
+<p>Plan postępowania obejmuje monitorowanie tolerancji unieruchomienia, ocenę ustawienia oraz reagowanie na objawy mogące świadczyć o problemie. Zakres i terminy kontroli zależą od rodzaju złamania oraz zastosowanej metody <span class="citation" data-cites="aoNonoperativeCast niceNG37">(<a href="#ref-aoNonoperativeCast" role="doc-biblioref">AO Foundation 2026c</a>; <a href="#ref-niceNG37" role="doc-biblioref">National Institute for Health and Care Excellence 2016a</a>)</span>.</p>
+</section>
+<section id="dlaczego-metoda-zależy-od-rodzaju-i-lokalizacji-złamania" class="level2">
+<h2 class="anchored" data-anchor-id="dlaczego-metoda-zależy-od-rodzaju-i-lokalizacji-złamania">Dlaczego metoda zależy od rodzaju i lokalizacji złamania</h2>
+<!-- source: slides 55, 57–61, 72–77 -->
+<!-- evidence: FTP-SC-007 -->
+<p>Nie istnieje jedna metoda właściwa dla wszystkich złamań. Decyzję kształtują między innymi lokalizacja i stabilność złamania, ustawienie odłamów, stan tkanek miękkich, potrzeby funkcjonalne oraz czynniki dotyczące pacjenta <span class="citation" data-cites="aoTraumaPrinciples">(<a href="#ref-aoTraumaPrinciples" role="doc-biblioref">AO Foundation 2026a</a>)</span>.</p>
+</section>
+<section id="do-zapamiętania" class="level2">
+<h2 class="anchored" data-anchor-id="do-zapamiętania">Do zapamiętania</h2>
+<!-- source: slides 55–61, 72–77 -->
+<!-- evidence: FTP-SC-001, FTP-SC-002, FTP-SC-003, FTP-SC-005, FTP-SC-006, FTP-SC-007 -->
+<ul>
+<li>Leczenie złamania jest decyzją zależną od urazu, pacjenta i celu funkcjonalnego.</li>
+<li>Leczenie zachowawcze i operacyjne są ramami postępowania, nie prostym podziałem według jednej cechy złamania.</li>
+<li>Stabilizacja, kontrola ustawienia i monitorowanie są elementami jednego planu.</li>
+</ul>
+</section>
+<section id="pytania-kontrolne" class="level2">
+<h2 class="anchored" data-anchor-id="pytania-kontrolne">Pytania kontrolne</h2>
+<!-- evidence: FTP-SC-001, FTP-SC-002, FTP-SC-004, FTP-SC-005, FTP-SC-007 -->
+<ol type="1">
+<li>Jakie cechy urazu i pacjenta mogą wpływać na wybór postępowania?</li>
+<li>Dlaczego nie można stworzyć jednego algorytmu leczenia wszystkich złamań?</li>
+<li>Jaki jest cel repozycji i dlaczego wymaga ona kontroli wyniku?</li>
+<li>Dlaczego metoda stabilizacji zależy od lokalizacji i wzorca złamania?</li>
+</ol>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Bibliografia</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-aoTraumaPrinciples" class="csl-entry" role="listitem">
+AO Foundation. 2026a. <span>„<span>AO Trauma Course</span>: Principles of Fracture Management”</span>. <a href="https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/curriculum/principles-of-fracture-management-for-orp">https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/curriculum/principles-of-fracture-management-for-orp</a>.
+</div>
+<div id="ref-aoLimitedResources" class="csl-entry" role="listitem">
+AO Foundation. 2026b. <span>„Fracture management with limited resources”</span>. <a href="https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/tibial-shaft/basic-technique/fracture-management-with-limited-resources">https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/tibial-shaft/basic-technique/fracture-management-with-limited-resources</a>.
+</div>
+<div id="ref-aoNonoperativeCast" class="csl-entry" role="listitem">
+AO Foundation. 2026c. <span>„Nonoperative treatment – definitive cast for extraarticular, simple fracture”</span>. <a href="https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-tibia/extraarticular-simple-fracture/nonoperative-treatment-definitive-cast">https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/distal-tibia/extraarticular-simple-fracture/nonoperative-treatment-definitive-cast</a>.
+</div>
+<div id="ref-niceNG37" class="csl-entry" role="listitem">
+National Institute for Health and Care Excellence. 2016a. <span>„Fractures (complex): assessment and management (<span>NG37</span>)”</span>. <a href="https://www.nice.org.uk/guidance/ng37/chapter/recommendations">https://www.nice.org.uk/guidance/ng37/chapter/recommendations</a>.
+</div>
+<div id="ref-niceNG38" class="csl-entry" role="listitem">
+National Institute for Health and Care Excellence. 2016b. <span>„Fractures (non-complex): assessment and management (<span>NG38</span>)”</span>. <a href="https://www.nice.org.uk/guidance/ng38/chapter/recommendations">https://www.nice.org.uk/guidance/ng38/chapter/recommendations</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
