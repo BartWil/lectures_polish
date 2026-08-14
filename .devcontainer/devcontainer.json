@@ -1,0 +1,27 @@
+{
+  "name": "lectures_polish — Quarto",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "postCreateCommand": "python3 -m pip install --user -r .devcontainer/requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto",
+        "ms-python.python",
+        "redhat.vscode-yaml"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "files.trimTrailingWhitespace": true
+      }
+    }
+  },
+  "portsAttributes": {
+    "4200": {
+      "label": "Podgląd Quarto",
+      "onAutoForward": "openPreview"
+    }
+  }
+}

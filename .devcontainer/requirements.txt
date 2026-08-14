@@ -1,0 +1,3 @@
+# Zależności potrzebne przez obecne skrypty pomocnicze w scripts/.
+python-pptx>=1.0,<2
+Pillow>=10,<12

@@ -18,6 +18,20 @@ quarto render
 
 Szczegółowe, stałe zasady pracy znajdują się w [AGENTS.md](AGENTS.md).
 
+## Edycja w przeglądarce
+
+Do krótkiej poprawki tekstu można użyć edytora [github.dev](https://github.dev/BartWil/lectures_polish): w widoku repozytorium na GitHub wystarczy nacisnąć klawisz `.`. Ten tryb nie udostępnia terminala ani lokalnego podglądu Quarto.
+
+Do tworzenia i sprawdzania materiałów używaj GitHub Codespaces. Konfiguracja w
+`.devcontainer/` automatycznie instaluje Quarto, Python oraz biblioteki obecnych
+skryptów. Po utworzeniu Codespace:
+
+1. otwórz plik `.qmd` i wybierz polecenie **Quarto: Preview**;
+2. w razie potrzeby przełącz edytor na tryb wizualny poleceniem **Edit in Visual Mode**;
+3. przed commitem uruchom `quarto render --clean`.
+
+Codespaces nie zastępuje prywatnego miejsca dla surowych materiałów źródłowych. Pliki `.pptx`, `.docx`, robocze ekstrakcje i materiały o niejasnych prawach nadal pozostają poza tym publicznym repozytorium.
+
 ## Lokalne materiały źródłowe
 
 Surowe prezentacje `.pptx`, dokumenty `.docx` oraz wyniki ich automatycznej ekstrakcji nie należą do publicznego repozytorium. Przechowuj je wyłącznie lokalnie:
