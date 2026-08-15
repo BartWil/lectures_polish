@@ -164,63 +164,159 @@ instrukcji kontaktu pilnego przekazanych pacjentowi przez ośrodek prowadzący.
 
 ## Faza 2 — kontrolowane obciążanie i podstawowa siła
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
+<!-- EVIDENCE LAYER: ACL-EQ-003, ACL-EQ-009, ACL-EQ-016, ACL-EQ-019 -->
+<!-- PROTOCOL DECISION: czas porządkuje plan, ale nie zastępuje oceny tolerancji ani jakości ruchu. -->
 <!-- AUTHOR CLINICAL NOTE: lokalny callout autora można umieścić przy odpowiedniej podsekcji. -->
 
 ### Cel fazy
 
-<!-- PLACEHOLDER -->
+Celem jest zwiększanie tolerancji na kontrolowane obciążanie oraz rozwijanie
+podstawowej siły mięśniowej bez utraty jakości ruchu. Trening oporowy powinien
+obejmować odpowiednio mięśnie czworogłowe, kulszowo-goleniowe, łydkę i biodro,
+z uwzględnieniem aktualnej funkcji oraz ewentualnych modyfikatorów
+[@kotsifaki2023aspetar].
+
+Faza nie jest wyznaczana samym czasem od operacji. Kalendarz jest tylko
+kontekstem planowania; tempo zwiększania obciążenia zależy od reakcji stawu,
+jakości ruchu i ograniczeń związanych z procedurą [@brinlee2022aclr].
 
 ### Warunki wejścia
 
-<!-- PLACEHOLDER -->
+- utrzymuje się kontrola warunków z Fazy 1, w tym monitorowanie ROM, objawów i
+  jakości chodu;
+- aktualne obciążanie jest tolerowane bez niekorzystnego trendu objawów;
+- sprawdzono, czy przeszczep, procedura współistniejąca lub zalecenie operatora
+  zmieniają warstwę bazową.
+
+Nie ma tu jednego liczbowego warunku wejścia. Decyzja wymaga oceny całego
+obrazu klinicznego, a nie zaliczenia pojedynczego testu.
+
+<!-- PROTOCOL DECISION: warunki wejścia są wielowymiarowymi markerami, nie autonomiczną bramką. -->
 
 ### Domeny pracy
 
-<!-- PLACEHOLDER -->
+- **Trening siłowy:** planuj progresywne obciążanie mięśnia czworogłowego,
+  mięśni kulszowo-goleniowych, łydki i biodra; cel ćwiczenia oraz sposób
+  monitorowania reakcji powinny być jawne.
+- **OKC i CKC:** ćwiczenia w otwartym i zamkniętym łańcuchu kinematycznym mogą
+  być elementami programu. Nie należy przedstawiać CKC jako jedynej dopuszczalnej
+  formy ani łączyć decyzji o wyproście kolana przeciw oporowi z oceną ROM lub
+  samą aktywacją mięśnia czworogłowego [@pamboris2024okcckc].
+- **Kontrola ruchu:** wprowadzaj stopniowo proste zadania równoważne i zadania
+  kontroli kończyny dolnej, traktując je jako domenę treningu i obserwacji,
+  a nie jako test z jednym wymaganym wynikiem.
+- **Aktywność aerobowa:** dobieraj modalność o małym wpływie mechanicznym do
+  aktualnej tolerancji, objawów i modyfikatorów; nie używaj samej daty od
+  operacji jako wskazania do zmiany modalności [@kotsifaki2023aspetar;
+  @brinlee2022aclr].
+
+<!-- EVIDENCE LAYER: ACL-EQ-003, ACL-EQ-009, ACL-EQ-016 -->
 
 ### Monitorowanie reakcji na obciążenie
 
-<!-- PLACEHOLDER -->
+Po każdej istotnej zmianie dawki obserwuj odpowiedź stawu, ROM, jakość ruchu
+oraz tolerancję obciążenia przez poszczególne grupy mięśniowe. Zmiana planu
+powinna mieć określony cel i być możliwa do odtworzenia w dokumentacji.
+
+Przy przeszczepie ze ścięgien kulszowo-goleniowych, BPTB albo ze ścięgna
+mięśnia czworogłowego interpretuj odpowiedź tkanek w warstwie modyfikatora;
+nie przenoś jednego terminu lub ograniczenia na wszystkich pacjentów.
+
+<!-- EVIDENCE LAYER: ACL-EQ-016 -->
+<!-- PROTOCOL DECISION: osobno zapisuj cel, zmianę obciążenia i odpowiedź; graft-specific precautions pozostają modifierem. -->
 
 ### Warunki progresji
 
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Rozważ progresję, gdy obciążenie z aktualnej fazy jest tolerowane, jakość ruchu
+pozostaje wystarczająca do celu zadania, a monitorowane domeny funkcji wykazują
+korzystny kierunek zmian. Żaden pojedynczy parametr — liczba powtórzeń, kąt,
+wynik propriocepcji lub data od operacji — nie jest tutaj samodzielnym,
+zwalidowanym progiem.
+
+<!-- EVIDENCE LAYER: ACL-EQ-009, ACL-EQ-016, ACL-EQ-019 -->
+<!-- THRESHOLD: nie używaj JPS, liczby przysiadów jednonóż, serii/powtórzeń ani czasu jako autonomicznego pass/fail cut-off. -->
 
 ### Kiedy zatrzymać progresję / konsultacja
 
-<!-- PLACEHOLDER -->
+Wstrzymaj automatyczne zwiększanie obciążenia, gdy odpowiedź stawu lub jakość
+ruchu pogarsza się, gdy cel ćwiczenia nie jest jasny albo gdy pojawia się
+konflikt z ograniczeniem dotyczącym przeszczepu, procedury współistniejącej lub
+zaleceniem operatora. Dalszą decyzję należy omówić z zespołem prowadzącym.
+
+<!-- PROTOCOL DECISION: niekorzystna odpowiedź na obciążenie lub konflikt modifiera wstrzymują progresję. -->
 
 ## Faza 3 — rozwój siły, kontroli jednonóż i przygotowanie funkcjonalne
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
+<!-- EVIDENCE LAYER: ACL-EQ-003, ACL-EQ-009, ACL-EQ-016, ACL-EQ-019 -->
+<!-- PROTOCOL DECISION: Faza 3 przygotowuje do późniejszego biegania i zadań dynamicznych, ale nie stanowi ich automatycznego rozpoczęcia. -->
 <!-- AUTHOR CLINICAL NOTE: lokalny callout autora można umieścić przy odpowiedniej podsekcji. -->
 
 ### Cel fazy
 
-<!-- PLACEHOLDER -->
+W tej fazie rozwija się siłę, kontrolę ruchu jednonóż i tolerancję bardziej
+złożonych zadań funkcjonalnych. Celem jest przygotowanie do kolejnych decyzji
+rehabilitacyjnych, a nie automatyczne uzyskanie gotowości do biegania,
+plyometrii lub sportu.
+
+<!-- PROTOCOL DECISION: zakres Fazy 3 nie obejmuje jeszcze return to running ani plyometrii. -->
 
 ### Warunki wejścia
 
-<!-- PLACEHOLDER -->
+- aktualny trening siłowy i podstawowe zadania kontroli ruchu są tolerowane;
+- obserwowany jest korzystny kierunek zmian w objawach, ROM i jakości ruchu;
+- ekran modifierów pozostaje aktualny, a ograniczenia operatora są znane;
+- zespół prowadzący może określić, jakie zadania funkcjonalne są odpowiednie
+  dla celów danej osoby.
+
+Są to warunki do interpretacji klinicznej, nie lista uniwersalnych kryteriów
+numerycznych.
+
+<!-- EVIDENCE LAYER: ACL-EQ-009, ACL-EQ-016, ACL-EQ-019 -->
 
 ### Domeny pracy
 
-<!-- PLACEHOLDER -->
+- **Siła:** zwiększaj wymagania treningu oporowego w sposób progresywny i
+  celowy, z osobną oceną odpowiedzi mięśnia czworogłowego, grupy
+  kulszowo-goleniowej, łydki i biodra.
+- **Kontrola jednonóż:** rozwijaj kontrolę kończyny dolnej w zadaniach o
+  stopniowo większych wymaganiach, obserwując jakość ruchu i tolerancję zamiast
+  stosować pojedynczy test propriocepcji jako bramkę [@kotsifaki2023aspetar].
+- **Przygotowanie funkcjonalne:** łącz rozwój siły i kontroli ruchu z zadaniami
+  odpowiadającymi aktualnym celom funkcjonalnym, bez przeskakiwania do
+  nieomówionych jeszcze obciążeń biegowych, plyometrycznych lub sportowych.
+- **Obciążenie aerobowe:** kontynuuj modalności dobrane do tolerancji i celu;
+  dokładne kryteria powrotu do biegania są omawiane w osobnej części protokołu.
+
+<!-- EVIDENCE LAYER: ACL-EQ-003, ACL-EQ-009, ACL-EQ-016 -->
 
 ### Monitorowanie reakcji na obciążenie
 
-<!-- PLACEHOLDER -->
+Monitoruj nie tylko objawy i wysięk lub obrzęk, lecz także jakość ruchu przy
+większej złożoności zadania, tolerancję lokalnego obciążenia mięśniowego oraz
+odpowiedź po zwiększeniu wymagania. Modyfikuj tylko te elementy programu,
+których cel i reakcję można jasno zinterpretować.
+
+<!-- PROTOCOL DECISION: jakość ruchu i reakcja na progresję są oceniane wraz z objawami; nie zastępują ich. -->
 
 ### Warunki progresji
 
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Kolejny krok zależy od spójnej tolerancji aktualnego obciążenia, jakości ruchu,
+postępu w domenach siły i kontroli oraz zgodności z warstwą modyfikatorów.
+Wyniki testów siły lub funkcji należy interpretować jako część późniejszej
+baterii oceny, a nie jako samodzielne pozwolenie na rozpoczęcie biegania lub
+plyometrii.
+
+<!-- EVIDENCE LAYER: ACL-EQ-009, ACL-EQ-016, ACL-EQ-019 -->
+<!-- THRESHOLD: testy siły i funkcji wymagają osobnej decyzji macierzy; nie wpisuj tu uniwersalnych wartości liczbowych. -->
 
 ### Kiedy zatrzymać progresję / konsultacja
 
-<!-- PLACEHOLDER -->
+Nie przechodź automatycznie do biegania, skoków lub agility tylko dlatego, że
+upłynął czas od operacji albo wykonano zadanie jednonóż. Wstrzymaj progresję i
+skonsultuj plan, gdy odpowiedź na obciążenie jest niekorzystna, jakość ruchu
+nie odpowiada wymaganiu zadania lub aktywny modyfikator ogranicza następny krok.
+
+<!-- PROTOCOL DECISION: wejście do biegania, plyometrii i agility wymaga odrębnej części protokołu oraz oceny gotowości. -->
 
 ## Powrót do biegania
 
