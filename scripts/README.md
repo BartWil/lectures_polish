@@ -31,3 +31,32 @@ W katalogu roboczym powstają:
 Przed rozpoczęciem audytu należy ręcznie sprawdzić wielokolumnowe układy,
 łamane punkty, tabele i elementy zależne od wyglądu strony. PDF oraz wszystkie
 wyniki tego etapu pozostają lokalne i ignorowane przez Git.
+
+## Normalizacja działań do planu evidence audit
+
+`normalize_rehab_protocol_actions.py` dodaje do inventory wyłącznie warstwę
+organizacyjną: rodzinę działania, priorytet, testowalność, grupę powtórzeń i
+śledzalne pytania do późniejszego audytu. Nie przeszukuje literatury, nie
+ocenia zaleceń źródłowego protokołu i nie tworzy własnego protokołu.
+
+```powershell
+python scripts/normalize_rehab_protocol_actions.py `
+  imports_working/protocols/<source_id>/action_inventory.json `
+  imports_working/protocols/<source_id> `
+  --question-prefix <PREFIKS>-EQ
+```
+
+Powstają lokalne pliki:
+
+- `action_inventory_normalized.json` — oryginalne rekordy z dodaną warstwą
+  normalizacji; identyfikatory źródłowe pozostają niezmienione;
+- `evidence_questions.json` — pytania grupujące działania Tier A i Tier B;
+- `threshold_inventory.json` — progi z bezpośrednim wskazaniem rekordu
+  źródłowego;
+- `evidence_audit_template.json` — pusty schemat późniejszej oceny evidence,
+  bez źródeł, wyników researchu ani decyzji klinicznych.
+
+Przed research należy ręcznie zweryfikować wszystkie rekordy Tier A, progi,
+rekordy oznaczone `requires_manual_review` i reprezentatywną próbę pozostałych
+rekordów. Wyniki normalizacji pozostają w `imports_working/` i nie podlegają
+publikacji.

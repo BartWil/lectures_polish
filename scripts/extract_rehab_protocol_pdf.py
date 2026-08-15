@@ -247,6 +247,12 @@ def make_element_id(page: int, element_type: str, ordinal: int) -> str:
 
 
 def serialise_line(line: TextLine, ordinal: int) -> dict[str, Any]:
+    kind = heading_kind(line.text)
+    # Nazwy podprogramów mogą występować jako wewnętrzne odnośniki w fazie.
+    # Tylko większy tekst traktujemy jako nagłówek rozpoczynający podprogram;
+    # mniejszy zapis zachowujemy jako link strukturalny bez tworzenia akcji.
+    if kind in {"subprogram_running", "subprogram_agility_plyometrics"} and (line.size or 0) < 14:
+        kind = f"{kind}_link"
     return {
         "element_id": make_element_id(line.page, "text", ordinal),
         "type": "text_block",
@@ -254,7 +260,7 @@ def serialise_line(line: TextLine, ordinal: int) -> dict[str, Any]:
         "reading_order": line.reading_order,
         "bbox": {"x0": line.x0, "top": line.top, "x1": line.x1, "bottom": line.bottom},
         "metadata": {"font_size": line.size, "font_name": line.fontname},
-        "heading_kind": heading_kind(line.text),
+        "heading_kind": kind,
     }
 
 
@@ -385,11 +391,50 @@ def collect_actions(
                 active_subprogram = kind.removeprefix("subprogram_")
                 active_section_name, active_section_kind = line.text, kind
                 continue
+            if kind in {"subprogram_running_link", "subprogram_agility_plyometrics_link"}:
+                flush_bullet()
+                if active_phase is not None:
+                    active_phase["links_to_subprograms"].append(
+                        {
+                            "subprogram": kind.removeprefix("subprogram_").removesuffix("_link"),
+                            "label": line.text,
+                            "source_page": line.page,
+                            "source_element_id": element["element_id"],
+                            "source_order": line.reading_order,
+                        }
+                    )
+                continue
             if kind is not None:
                 flush_bullet()
                 if kind == "references":
                     active_phase = None
                 active_section_name, active_section_kind = line.text, kind
+                continue
+
+            # W źródłowym układzie PDF nazwy podprogramów w fazie V są
+            # sklejone z etykietą tabeli i punktem listy. Zapisujemy je jako
+            # linki strukturalne, bez przekształcania ich w nowe akcje.
+            inline_subprograms = (
+                ("running", "Return to Running Program"),
+                ("agility_plyometrics", "Agility and Plyometric Program"),
+            )
+            matched_subprogram = next(
+                ((identifier, label) for identifier, label in inline_subprograms if label.casefold() in line.text.casefold()),
+                None,
+            )
+            if matched_subprogram is not None and active_phase is not None:
+                identifier, label = matched_subprogram
+                active_phase["links_to_subprograms"].append(
+                    {
+                        "subprogram": identifier,
+                        "label": label,
+                        "source_page": line.page,
+                        "source_element_id": element["element_id"],
+                        "source_order": line.reading_order,
+                    }
+                )
+                if line.text.casefold().startswith("interventions "):
+                    active_section_name, active_section_kind = "Interventions", "interventions"
                 continue
 
             if line.text.casefold().startswith("interventions "):
@@ -503,12 +548,9 @@ def collect_actions(
             phase["graft_specific_notes"].append(action["action_id"])
         if "concomitant_procedure" in action["tags"]:
             phase["concomitant_injury_notes"].append(action["action_id"])
-        if action["category"] in {"running", "return_to_sport", "RTS_criterion"}:
-            phase["links_to_subprograms"].append(action["action_id"])
-
     for phase in phases:
         for key, value in phase.items():
-            if isinstance(value, list):
+            if isinstance(value, list) and key != "links_to_subprograms":
                 phase[key] = list(dict.fromkeys(value))
         phase["page_numbers"] = sorted(phase["page_numbers"])
         phase["source_pages"] = sorted(phase["source_pages"])
