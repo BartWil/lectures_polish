@@ -1,7 +1,6 @@
 ---
 title: "ACLR — rehabilitacja po rekonstrukcji ACL"
-description: "Roboczy szkielet autorskiego protokołu rehabilitacji po rekonstrukcji ACL."
-draft: true
+description: "Dydaktyczna rama rehabilitacji po pierwotnej, izolowanej rekonstrukcji ACL."
 ---
 
 <!-- Szkielet autorskiego protokołu. Nie kopiowano układu ani treści dokumentu MGH. -->
@@ -25,11 +24,27 @@ opisany jako element szerszej oceny, a nie jako uniwersalny biologiczny
 cut-off.
 
 ::: {.callout-note}
-## Zakres edukacyjny
+### Co wynika z dowodów
+
+Twierdzenia oparte na dowodach mają bezpośrednie cytowanie. Źródło wyjaśnia
+zasadę lub ograniczenie; nie zamienia samo w sobie markera, czasu ani wyniku
+testu w autonomiczną decyzję kliniczną.
+:::
+
+::: {.callout-note}
+### Zakres edukacyjny
 
 Strona porządkuje zasady rozumowania i monitorowania postępu po izolowanym
 ACLR. Nie obejmuje szczegółowych planów dla procedur współistniejących,
 powikłań pooperacyjnych ani zastępującego badanie kliniczne triage'u.
+:::
+
+::: {.callout-tip}
+### Wskazówka kliniczna autora
+
+Jeżeli w kolejnych wersjach pojawi się praktyczna wskazówka autora, będzie
+wyraźnie oznaczona tym typem calloutu. Nie stanowi ona samodzielnie zalecenia
+opartego na dowodach ani nie zastępuje decyzji zespołu prowadzącego.
 :::
 
 <!-- EVIDENCE LAYER: ACL-EQ-006, ACL-EQ-013, ACL-EQ-018, ACL-EQ-020 -->
@@ -40,8 +55,8 @@ powikłań pooperacyjnych ani zastępującego badanie kliniczne triage'u.
 
 <!-- PROTOCOL DECISION: BASE ACLR + MODIFIER LAYER -->
 
-::: {.callout-note}
-## Decyzja protokołu
+::: {.callout-important}
+### Decyzja protokołu
 
 `BASE ACLR` + `MODIFIER LAYER`
 
@@ -49,7 +64,14 @@ Warstwa bazowa dotyczy wyłącznie izolowanego ACLR. Gdy występuje modyfikator,
 bardziej restrykcyjne ograniczenie wynikające z procedury współistniejącej lub
 zalecenia operatora ma pierwszeństwo przed warstwą bazową.
 
+W warstwie bazowej po pierwotnym, izolowanym ACLR nie zakłada się rutynowego
+stosowania ortezy pooperacyjnej. Nie jest to zakaz jej użycia: gdy orteza
+wynika z procedury współistniejącej, charakteru zabiegu lub zalecenia
+operatora, odpowiedni modyfikator ma pierwszeństwo [@kotsifaki2023aspetar;
+@brinlee2022aclr].
+
 <!-- PROTOCOL DECISION: bardziej restrykcyjne ograniczenia procedury współistniejącej lub zalecenia operatora mają pierwszeństwo przed warstwą bazową. -->
+<!-- EVIDENCE LAYER: zalecenia dotyczące ortezy w warstwie bazowej ACLR; Block A. -->
 :::
 
 ### Modyfikatory do oceny

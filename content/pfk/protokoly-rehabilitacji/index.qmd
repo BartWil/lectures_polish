@@ -1,25 +1,18 @@
 ---
 title: "Protokoły rehabilitacji"
-description: "Dział w przygotowaniu: autorskie protokoły rehabilitacji oparte na audycie źródeł i dowodów."
-draft: true
+description: "Autorskie protokoły rehabilitacji oparte na audycie źródeł i dowodów."
 ---
 
-Ten dział będzie zawierał autorskie, edytowalne protokoły rehabilitacji.
-Każdy protokół powstanie jako osobny plik `.qmd` i przed publikacją przejdzie
-mapowanie materiału źródłowego oraz audyt zaleceń na poziomie pojedynczych
-działań.
+Ten dział zawiera autorskie, edytowalne protokoły rehabilitacji. Każdy protokół
+powstaje jako osobny plik `.qmd` i przed publikacją przechodzi mapowanie
+materiału źródłowego oraz audyt zaleceń na poziomie pojedynczych działań.
 
 Materiały zewnętrznych ośrodków mogą być wykorzystywane wyłącznie jako źródła
 referencyjne. Nie będą kopiowane ani redystrybuowane jako zmodyfikowane pliki.
 
-Planowana organizacja działu:
+## Kolano
 
-- Kolano
-- Staw skokowy i stopa
-- Bark
-- Biodro
-- Łokieć
-- Pediatria
+- [ACLR — rehabilitacja po rekonstrukcji ACL](kolano/aclr-rehabilitacja.html)
 
 Szczegółowy standard powstawania treści pozostaje opisany w
 [`CONTENT_WORKFLOW.md`](../../../CONTENT_WORKFLOW.md).

@@ -3,8 +3,6 @@ project:
   render:
     - index.qmd
     - content/**/*.qmd
-    # Dział roboczy: włączymy go do buildu przy publikacji pierwszego protokołu.
-    - "!content/pfk/protokoly-rehabilitacji/**/*.qmd"
 
 website:
   title: "Materiały dydaktyczne"
@@ -35,6 +33,13 @@ website:
                 - text: "Rehabilitacja po urazie — zasady ogólne"
                   href: content/pfk/ortopedia-traumatologia/rehabilitation-after-injury-principles.qmd
             - content/pfk/medycyna-sportowa/index.qmd
+            - section: "Protokoły rehabilitacji"
+              contents:
+                - content/pfk/protokoly-rehabilitacji/index.qmd
+                - section: "Kolano"
+                  contents:
+                    - text: "ACLR — rehabilitacja po rekonstrukcji ACL"
+                      href: content/pfk/protokoly-rehabilitacji/kolano/aclr-rehabilitacja.qmd
   page-footer:
     left: "Materiały dydaktyczne"
     right: "Strona zbudowana w Quarto"
