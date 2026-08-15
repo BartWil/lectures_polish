@@ -1,0 +1,42 @@
+---
+title: "TYTUŁ"
+draft: true
+---
+
+# TYTUŁ
+
+Krótki tekst wprowadzający.
+
+## Najważniejsze zagadnienie
+
+Treść.
+
+## Kolejne zagadnienie
+
+Treść.
+
+## Znaczenie kliniczne
+
+Treść.
+
+::: {.callout-tip}
+## Wskazówka praktyczna
+
+Miejsce na praktyczny komentarz autora.
+:::
+
+## Do zapamiętania
+
+- ...
+- ...
+- ...
+
+## Pytania kontrolne
+
+1. ...
+2. ...
+3. ...
+
+<!-- TODO EBM: tutaj można oznaczyć twierdzenie wymagające późniejszej weryfikacji -->
+<!-- TODO FIGURE: tutaj można zaplanować własną rycinę -->
+<!-- source: manual-authoring -->
