@@ -320,37 +320,111 @@ nie odpowiada wymaganiu zadania lub aktywny modyfikator ogranicza następny krok
 
 ## Powrót do biegania
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Powrót do biegania jest kontrolowaną ekspozycją na nowe wymaganie, a nie
+automatycznym etapem po upływie określonego czasu. Decyzja powinna łączyć czas
+od operacji z gotowością kliniczną: reakcją stawu na obciążenie, ROM, chodem,
+siłą, kontrolą ruchu i aktualnymi modyfikatorami [@rambaud2018rtr;
+@kotsifaki2023aspetar].
+
+### Warunki rozpoczęcia
+
+- obciążenia z poprzedniej fazy są tolerowane, a objawy nie wykazują
+  niekorzystnego trendu;
+- ROM i chód umożliwiają ocenę bardziej dynamicznego zadania;
+- siła i kontrola ruchu są interpretowane w kontekście celu, jakości ruchu i
+  modyfikatorów;
+- nie ma ograniczenia operatora lub procedury współistniejącej, które zmienia
+  warstwę bazową.
+
+Nie używaj daty od operacji, reguły „10%” ani pojedynczego wyniku testu jako
+samodzielnego pozwolenia na bieg. Przeglądy opisują dużą różnorodność kryteriów
+i programów powrotu do biegania [@rambaud2018rtr].
+
+### Prowadzenie i monitorowanie
+
+Dobieraj formę, dawkę i progresję biegu do aktualnej tolerancji oraz celu
+osoby. Przed i po zmianie ekspozycji zapisuj objawy, wysięk lub obrzęk, ROM,
+jakość ruchu i odpowiedź na poprzednią dawkę. Nie zwiększaj automatycznie
+obciążenia, gdy odpowiedź jest niekorzystna lub niejasna.
+
+<!-- EVIDENCE LAYER: ACL-EQ-015, ACL-EQ-017 -->
+<!-- PROTOCOL DECISION: return to running = czas + gotowość kliniczna; szczegółowa dawka wymaga indywidualnego planu. -->
+<!-- THRESHOLD: nie używaj czasu, reguły 10% ani jednego testu jako autonomicznego pass/fail cut-off. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Plyometria i agility
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Plyometria i agility wprowadzają większe wymagania dotyczące absorpcji sił,
+kontroli ruchu i specyfiki aktywności. Ich miejsce w planie zależy od celu
+osoby; nie każda osoba po ACLR potrzebuje jednakowego zakresu zadań
+sportowych [@meredith2020panther].
+
+### Warunki rozpoczęcia
+
+Decyzję podejmuj na podstawie tolerancji aktualnego obciążenia, kontroli
+ruchu, jakości lądowania, stanu klinicznego, siły i modyfikatorów. Żaden
+pojedynczy wynik symetrii, hop testu ani data od operacji nie są samodzielnym
+progiem wejścia.
+
+### Prowadzenie i monitorowanie
+
+Zwiększaj złożoność zadań stopniowo, zgodnie z celem funkcjonalnym lub
+sportowym, obserwując jakość ruchu oraz reakcję stawu. Agility powinno być
+traktowane jako moduł zależny od specyfiki aktywności, a nie jako obowiązkowa
+lista ćwiczeń dla wszystkich [@meredith2020panther; @kotsifaki2023aspetar].
+
+Wstrzymaj progresję, gdy jakość lądowania lub ruchu nie odpowiada wymaganiu
+zadania, gdy reakcja na obciążenie jest niekorzystna albo gdy modyfikator
+proceduralny ogranicza następny krok.
+
+<!-- EVIDENCE LAYER: ACL-EQ-001, ACL-EQ-011, ACL-EQ-017 -->
+<!-- PROTOCOL DECISION: progresja plyometrii i agility przebiega przez wymagania zadania, jakość ruchu i tolerancję; nie przez jedną nazwę ćwiczenia ani liczbę powtórzeń. -->
+<!-- THRESHOLD: nie używaj LSI, hop testu ani daty jako autonomicznego wejścia do plyometrii lub agility. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Return to participation
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+**Return to participation** oznacza wznowienie części aktywności — na przykład
+treningu zmodyfikowanego względem pełnych wymagań danej dyscypliny. Nie oznacza
+automatycznie gotowości do pełnego udziału w sporcie ani osiągnięcia dawnego
+poziomu wykonania [@ardern2016bern].
+
+Zakres ekspozycji ustala się wspólnie z osobą rehabilitowaną i zespołem
+prowadzącym, uwzględniając cel aktywności, reakcję na obciążenie i aktywne
+modyfikatory.
+
+<!-- EVIDENCE LAYER: ACL-EQ-014 -->
+<!-- PROTOCOL DECISION: participation jest odrębnym etapem ekspozycji, nie skróconą nazwą RTS. -->
+<!-- THRESHOLD: nie wprowadzaj pojedynczego pass/fail cut-off. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Return to sport
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+**Return to sport** oznacza powrót do wybranej dyscypliny na poziomie
+odpowiadającym jej wymaganiom. Decyzja powinna obejmować czas jako kontekst,
+stan kliniczny, siłę, funkcję i jakość ruchu, PROM, gotowość psychologiczną,
+specyficzną ekspozycję sportową oraz wspólną decyzję — nie jeden test, wynik
+LSI ani samo „dopuszczenie” [@meredith2020panther; @ardern2016bern].
+
+Rola operatora i zespołu prowadzącego powinna być lokalnie jasno określona.
+Ten materiał nie zastępuje indywidualnej decyzji medycznej ani zasad
+odpowiedzialności przyjętych w danym ośrodku.
+
+<!-- EVIDENCE LAYER: ACL-EQ-008, ACL-EQ-010, ACL-EQ-012, ACL-EQ-014 -->
+<!-- PROTOCOL DECISION: RTS jest wspólną, wielowymiarową decyzją; lokalny model clearance wymaga odrębnego ustalenia. -->
+<!-- THRESHOLD: LSI, hop tests, PROM i data nie są autonomicznymi cut-offami RTS. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Return to performance
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+**Return to performance** oznacza odzyskanie albo przekroczenie poziomu
+wykonania sprzed urazu. Jest to odrębny etap względem samego powrotu do
+uczestnictwa lub do sportu i wymaga monitorowania tolerancji rzeczywistej
+ekspozycji [@ardern2016bern].
+
+<!-- EVIDENCE LAYER: ACL-EQ-014 -->
+<!-- PROTOCOL DECISION: performance wymaga osobnego celu i obserwacji ekspozycji; nie wynika automatycznie z RTS. -->
+<!-- THRESHOLD: nie wprowadzaj pojedynczego pass/fail cut-off. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Bateria oceny
@@ -369,12 +443,44 @@ nie odpowiada wymaganiu zadania lub aktywny modyfikator ogranicza następny krok
 - readiness psychologiczna
 - ekspozycja sportowa
 
-<!-- EVIDENCE LAYER -->
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Ta sama bateria jest używana longitudinalnie: pomaga opisywać zmianę w czasie,
+nie jest jednorazowym egzaminem przed RTS. Dobór narzędzi i sposób pomiaru
+powinny być zapisane tak, aby wyniki można było sensownie porównać między
+ocenami.
+
+- **Stan kliniczny i objawy:** ból, wysięk lub obrzęk oraz odpowiedź na
+  aktualne obciążenie.
+- **ROM i chód:** odniesione do celu aktualnej fazy oraz jakości ruchu.
+- **Siła i kontrola ruchu:** interpretowane wraz z metodą pomiaru,
+  modyfikatorami i wymaganiem zadania.
+- **Testy funkcjonalne:** w tym testy skokowe, jeśli są adekwatne do celu;
+  stanowią część baterii, a nie pojedynczy test decyzyjny.
+- **PROM i gotowość psychologiczna:** oceniane razem z funkcją i celem
+  aktywności, bez automatycznego znaczenia jednej wartości liczbowej.
+- **Ekspozycja sportowa:** rzeczywista tolerancja stopniowo zwiększanych
+  wymagań treningowych lub sportowych.
+
+Wybór konkretnego zestawu narzędzi, sposobu dokumentowania i interpretacji
+wyników wymaga decyzji lokalnej. Nie należy przenosić do niego wartości
+liczbowych z innych protokołów jako uniwersalnych progów.
+
+<!-- EVIDENCE LAYER: ACL-EQ-008, ACL-EQ-012, ACL-EQ-014 -->
+<!-- THRESHOLD: wynik hop testu, LSI lub PROM ma znaczenie wyłącznie jako część baterii i kontekstu klinicznego. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Ograniczenia protokołu i źródła
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
+Ten protokół ma charakter dydaktycznej ramy dla osoby dorosłej po pierwotnym,
+izolowanym ACLR. Nie zastępuje indywidualnego planu ani ograniczeń wynikających
+z procedury współistniejącej, rodzaju przeszczepu, przebiegu pooperacyjnego czy
+zaleceń operatora.
+
+Nie podaje uniwersalnych dawek treningowych ani autonomicznych progów czasu,
+ROM, LSI, hop testów czy PROM. Wynika to z ograniczonej walidacji wielu
+kryteriów progresji; liczby mogą być użyte jedynie po osobnej decyzji
+protokołu, jako jawnie opisane markery w szerszej ocenie
+[@kotsifaki2023aspetar; @rambaud2018rtr; @meredith2020panther].
+
+<!-- EVIDENCE LAYER: ACL-EQ-006, ACL-EQ-008, ACL-EQ-010, ACL-EQ-012, ACL-EQ-014, ACL-EQ-015, ACL-EQ-017 -->
+<!-- PROTOCOL DECISION: źródła publiczne dokumentują zasady; lokalne artefakty audytu i prywatne dokumenty referencyjne nie są częścią publikacji. -->
 <!-- AUTHOR CLINICAL NOTE -->
