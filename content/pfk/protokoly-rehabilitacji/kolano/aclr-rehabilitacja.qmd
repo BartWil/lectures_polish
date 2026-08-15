@@ -1,0 +1,190 @@
+---
+title: "ACLR — rehabilitacja po rekonstrukcji ACL"
+description: "Roboczy szkielet autorskiego protokołu rehabilitacji po rekonstrukcji ACL."
+draft: true
+---
+
+<!-- Szkielet autorskiego protokołu. Nie kopiowano układu ani treści dokumentu MGH. -->
+
+## Jak używać protokołu
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Ekran modifierów
+
+<!-- PROTOCOL DECISION: BASE ACLR + MODIFIER LAYER -->
+
+::: {.callout-note}
+## Decyzja protokołu
+
+`BASE ACLR` + `MODIFIER LAYER`
+
+<!-- PROTOCOL DECISION: bardziej restrykcyjne ograniczenia procedury współistniejącej lub zalecenia operatora mają pierwszeństwo przed warstwą bazową. -->
+:::
+
+### Modyfikatory do oceny
+
+- meniscus repair
+- meniscus root/radial/complex repair
+- cartilage procedure
+- hamstring graft
+- BPTB graft
+- quadriceps tendon graft
+- revision ACLR
+- other surgeon/procedure restrictions
+
+<!-- EVIDENCE LAYER -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Faza 1 — wczesne odzyskiwanie funkcji
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- AUTHOR CLINICAL NOTE: lokalny callout autora można umieścić przy odpowiedniej podsekcji. -->
+
+### Cel fazy
+
+<!-- PLACEHOLDER -->
+
+### Warunki wejścia
+
+<!-- PLACEHOLDER -->
+
+### Domeny pracy
+
+<!-- PLACEHOLDER -->
+
+### Monitorowanie reakcji na obciążenie
+
+<!-- PLACEHOLDER -->
+
+### Warunki progresji
+
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+
+### Kiedy zatrzymać progresję / konsultacja
+
+<!-- PLACEHOLDER -->
+
+## Faza 2 — kontrolowane obciążanie i podstawowa siła
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- AUTHOR CLINICAL NOTE: lokalny callout autora można umieścić przy odpowiedniej podsekcji. -->
+
+### Cel fazy
+
+<!-- PLACEHOLDER -->
+
+### Warunki wejścia
+
+<!-- PLACEHOLDER -->
+
+### Domeny pracy
+
+<!-- PLACEHOLDER -->
+
+### Monitorowanie reakcji na obciążenie
+
+<!-- PLACEHOLDER -->
+
+### Warunki progresji
+
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+
+### Kiedy zatrzymać progresję / konsultacja
+
+<!-- PLACEHOLDER -->
+
+## Faza 3 — rozwój siły, kontroli jednonóż i przygotowanie funkcjonalne
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- AUTHOR CLINICAL NOTE: lokalny callout autora można umieścić przy odpowiedniej podsekcji. -->
+
+### Cel fazy
+
+<!-- PLACEHOLDER -->
+
+### Warunki wejścia
+
+<!-- PLACEHOLDER -->
+
+### Domeny pracy
+
+<!-- PLACEHOLDER -->
+
+### Monitorowanie reakcji na obciążenie
+
+<!-- PLACEHOLDER -->
+
+### Warunki progresji
+
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+
+### Kiedy zatrzymać progresję / konsultacja
+
+<!-- PLACEHOLDER -->
+
+## Powrót do biegania
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Plyometria i agility
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Return to participation
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Return to sport
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Return to performance
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Bateria oceny
+
+<!-- PROTOCOL DECISION: bateria jest stosowana longitudinalnie podczas rehabilitacji, a nie wyłącznie jako końcowy test RTS. -->
+
+### Domeny oceny
+
+- stan kliniczny / objawy / wysięk
+- ROM
+- chód
+- siła
+- kontrola ruchu
+- testy funkcjonalne
+- PROM
+- readiness psychologiczna
+- ekspozycja sportowa
+
+<!-- EVIDENCE LAYER -->
+<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+<!-- AUTHOR CLINICAL NOTE -->
+
+## Ograniczenia protokołu i źródła
+
+<!-- EVIDENCE LAYER -->
+<!-- PROTOCOL DECISION -->
+<!-- AUTHOR CLINICAL NOTE -->
