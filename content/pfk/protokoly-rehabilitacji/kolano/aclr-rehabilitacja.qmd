@@ -8,8 +8,32 @@ draft: true
 
 ## Jak używać protokołu
 
-<!-- EVIDENCE LAYER -->
-<!-- PROTOCOL DECISION -->
+Ten materiał jest ramą dydaktyczną dla osoby dorosłej po **pierwotnej,
+izolowanej rekonstrukcji ACL (ACLR)**. Nie zastępuje indywidualnego planu
+ustalonego przez operatora i zespół prowadzący ani nie służy do samodzielnego
+podejmowania decyzji klinicznych.
+
+Rehabilitację prowadzi się równolegle według czasu od operacji i aktualnego
+stanu funkcjonalnego. Czas pomaga uporządkować etapy, ale sam nie jest
+wystarczającym warunkiem progresji. Przy każdej decyzji należy łączyć obraz
+kliniczny, zakres ruchu (ROM), chód, funkcję mięśnia czworogłowego oraz reakcję
+stawu na ostatnie obciążenie [@kotsifaki2023aspetar; @brinlee2022aclr].
+
+W tym protokole liczby nie są autonomicznymi progami „zaliczenia” fazy. Jeżeli
+w kolejnych częściach pojawi się marker lub wartość liczbowa, będzie on
+opisany jako element szerszej oceny, a nie jako uniwersalny biologiczny
+cut-off.
+
+::: {.callout-note}
+## Zakres edukacyjny
+
+Strona porządkuje zasady rozumowania i monitorowania postępu po izolowanym
+ACLR. Nie obejmuje szczegółowych planów dla procedur współistniejących,
+powikłań pooperacyjnych ani zastępującego badanie kliniczne triage'u.
+:::
+
+<!-- EVIDENCE LAYER: ACL-EQ-006, ACL-EQ-013, ACL-EQ-018, ACL-EQ-020 -->
+<!-- PROTOCOL DECISION: progresja łączy czas, stan kliniczny i funkcję; żaden pojedynczy marker nie stanowi samodzielnej bramki. -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Ekran modifierów
@@ -21,21 +45,30 @@ draft: true
 
 `BASE ACLR` + `MODIFIER LAYER`
 
+Warstwa bazowa dotyczy wyłącznie izolowanego ACLR. Gdy występuje modyfikator,
+bardziej restrykcyjne ograniczenie wynikające z procedury współistniejącej lub
+zalecenia operatora ma pierwszeństwo przed warstwą bazową.
+
 <!-- PROTOCOL DECISION: bardziej restrykcyjne ograniczenia procedury współistniejącej lub zalecenia operatora mają pierwszeństwo przed warstwą bazową. -->
 :::
 
 ### Modyfikatory do oceny
 
-- meniscus repair
-- meniscus root/radial/complex repair
-- cartilage procedure
-- hamstring graft
-- BPTB graft
-- quadriceps tendon graft
-- revision ACLR
-- other surgeon/procedure restrictions
+- naprawa łąkotki;
+- naprawa korzenia łąkotki albo naprawa pęknięcia promienistego lub złożonego;
+- procedura dotycząca chrząstki;
+- przeszczep ze ścięgien kulszowo-goleniowych;
+- przeszczep BPTB (bone--patellar tendon--bone);
+- przeszczep ze ścięgna mięśnia czworogłowego;
+- rewizyjna rekonstrukcja ACL;
+- inne ograniczenia dotyczące procedury lub przekazane przez operatora.
 
-<!-- EVIDENCE LAYER -->
+Ten ekran jest kontrolą zakresu, a nie gotową listą ograniczeń. Rodzaj
+naprawy łąkotki, procedura chrząstkowa, technika przeszczepu i zalecenia
+operatora mogą zmienić interpretację warstwy bazowej; wymagają wtedy osobnej,
+jawnej decyzji [@pujol2025meniscus; @brinlee2022aclr].
+
+<!-- EVIDENCE LAYER: ACL-EQ-004, ACL-EQ-007 -->
 <!-- AUTHOR CLINICAL NOTE -->
 
 ## Faza 1 — wczesne odzyskiwanie funkcji
@@ -46,27 +79,88 @@ draft: true
 
 ### Cel fazy
 
-<!-- PLACEHOLDER -->
+W pierwszej fazie celem jest rozpoczęcie odzyskiwania funkcji: dążenie do
+pełnego wyprostu i stopniowego odzyskiwania zgięcia, aktywacja mięśnia
+czworogłowego, bezpieczny chód oraz kontrolowane, progresywne obciążanie
+zgodne z tolerancją i ograniczeniami pooperacyjnymi [@kotsifaki2023aspetar;
+@brinlee2022aclr].
+
+Nie oznacza to, że każda osoba ma osiągnąć ten sam wynik w tym samym czasie.
+Pełny wyprost i progresję zgięcia traktuje się jako monitorowane cele
+kliniczne, a nie jako automatyczny warunek w konkretnym dniu po operacji.
+
+<!-- EVIDENCE LAYER: ACL-EQ-005, ACL-EQ-013, ACL-EQ-020 -->
 
 ### Warunki wejścia
 
-<!-- PLACEHOLDER -->
+- potwierdzono zakres wykonanej procedury i aktualne zalecenia operatora;
+- sprawdzono ekran modifierów oraz ustalono, czy warstwa bazowa jest
+  odpowiednia;
+- zaplanowano sposób dokumentowania ROM, chodu oraz reakcji na obciążenie.
+
+Jeżeli ograniczenia pooperacyjne są niejasne, nie zakłada się ich na podstawie
+tego materiału — należy je wyjaśnić z zespołem prowadzącym.
+
+<!-- PROTOCOL DECISION: warstwa bazowa może zostać użyta dopiero po sprawdzeniu procedury i ograniczeń operatora. -->
 
 ### Domeny pracy
 
-<!-- PLACEHOLDER -->
+- **ROM:** monitoruj wyprost i stopniowe odzyskiwanie zgięcia, zapisując pomiar
+  w porównywalny sposób.
+- **Aktywacja mięśnia czworogłowego:** oceniaj ją niezależnie od samego ROM.
+  Odzyskiwanie wyprostu, aktywacja mięśnia czworogłowego oraz wyprost kolana w
+  otwartym łańcuchu kinematycznym przeciw oporowi są różnymi zagadnieniami;
+  decyzje o ćwiczeniu oporowym należą do części dotyczącej siły i obciążania.
+- **Chód i obciążanie:** zwiększaj obciążanie stopniowo, zgodnie z tolerancją,
+  jakością chodu, reakcją stawu i ewentualnymi ograniczeniami wynikającymi z
+  modyfikatora.
+- **Edukacja:** wyjaśnij cel monitorowania objawów i powód, dla którego sam
+  kalendarz nie wyznacza progresji.
+
+<!-- EVIDENCE LAYER: ACL-EQ-005, ACL-EQ-013, ACL-EQ-020 -->
 
 ### Monitorowanie reakcji na obciążenie
 
-<!-- PLACEHOLDER -->
+Przed i po zmianie obciążenia obserwuj ból, wysięk lub obrzęk, ROM, jakość
+chodu oraz aktywację mięśnia czworogłowego. Istotny jest kierunek zmian i
+reakcja na ostatnią dawkę pracy, a nie wymóg uniwersalnego „zera objawów”
+[@kotsifaki2023aspetar; @brinlee2022aclr].
+
+Zapisuj również, co zmieniono w planie. Ułatwia to odróżnienie reakcji na
+obciążenie od zmiany niezwiązanej bezpośrednio z rehabilitacją.
+
+<!-- EVIDENCE LAYER: ACL-EQ-018 -->
+<!-- PROTOCOL DECISION: przy zmianie planu dokumentuj kontekst i reakcję stawu; nie używaj binarnego kryterium „zero objawów”. -->
 
 ### Warunki progresji
 
-<!-- THRESHOLD: insert only after protocol decision matrix; label as marker, not autonomous pass/fail cut-off -->
+Decyzja o przejściu dalej jest wielowymiarowa. Oceniaj łącznie:
+
+- kierunek zmian objawów i wysięku lub obrzęku;
+- odzyskiwanie ROM, ze szczególną uwagą na wyprost;
+- jakość i bezpieczeństwo chodu podczas aktualnego poziomu obciążania;
+- możliwość aktywacji mięśnia czworogłowego i kontrolę ruchu;
+- zgodność z ograniczeniami pooperacyjnymi.
+
+Są to markery do rozmowy klinicznej, nie samodzielne, zwalidowane progi
+progresji. Spełnienie jednego z nich nie przesądza o zmianie fazy
+[@kotsifaki2023aspetar; @brinlee2022aclr].
+
+<!-- EVIDENCE LAYER: ACL-EQ-006, ACL-EQ-013, ACL-EQ-018, ACL-EQ-020 -->
+<!-- THRESHOLD: markery stosuj łącznie; nie wprowadzaj autonomicznego progu pass/fail bez decyzji macierzy protokołu. -->
 
 ### Kiedy zatrzymać progresję / konsultacja
 
-<!-- PLACEHOLDER -->
+Nie zwiększaj obciążenia automatycznie, gdy reakcja stawu na poprzednią dawkę
+jest niekorzystna, gdy pojawiają się nowe niepokojące objawy albo gdy
+ograniczenia pooperacyjne są niejasne. W takiej sytuacji plan należy omówić z
+zespołem prowadzącym.
+
+Ten materiał nie zastępuje procedury rozpoznawania powikłań pooperacyjnych ani
+instrukcji kontaktu pilnego przekazanych pacjentowi przez ośrodek prowadzący.
+
+<!-- PROTOCOL DECISION: niepewność co do ograniczeń lub niekorzystna reakcja na obciążenie wstrzymuje automatyczną progresję. -->
+<!-- AUTHOR CLINICAL NOTE: tutaj można dodać lokalny callout autora dotyczący obserwacji reakcji na obciążenie. -->
 
 ## Faza 2 — kontrolowane obciążanie i podstawowa siła
 
